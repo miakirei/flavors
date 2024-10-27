@@ -64,7 +64,7 @@ function Layout() {
             <header onLoad={getUserLocation}>
                 <nav className="navbar navbar-expand-xl bg-danger-subtle px-3">
                     <div className="container-fluid d-flex justify-content-between">
-                        <Link to="/" className="navbar-brand me-0">
+                        <Link to="/flavors" className="navbar-brand me-0">
                             <div className="d-flex fs-1 align-items-center">
                                 <img src="/images/logo.png" alt="Logo" width="50" className="me-2" />
                                 FLAVORS
@@ -83,31 +83,31 @@ function Layout() {
                                     </NavLink>
                                 </li>
                                 <li className="nav-item me-2 dropdown">
-                                    <NavLink activeclassname="active" to={pathname.match(RegExp("/categories", "i")) ? "/categories" : "/products"} className="nav-link px-2 dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <NavLink activeclassname="active" to={pathname.match(RegExp("/flavors/categories", "i")) ? "/flavors/categories" : "/flavors/products"} className="nav-link px-2 dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Products
                                     </NavLink>
                                     <ul className="dropdown-menu" style={{ backgroundColor: "mistyrose" }}>
-                                        <li><a className="dropdown-item" href="/categories/spices">Spices</a></li>
-                                        <li><a className="dropdown-item" href="/categories/mixes">Spice Blends</a></li>
-                                        <li><a className="dropdown-item" href="/categories/chilies">Chilies</a></li>
-                                        <li><a className="dropdown-item" href="/categories/peppers">Peppers</a></li>
-                                        <li><a className="dropdown-item" href="/categories/herbs">Culinary Herbs</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/categories/spices">Spices</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/categories/mixes">Spice Blends</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/categories/chilies">Chilies</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/categories/peppers">Peppers</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/categories/herbs">Culinary Herbs</a></li>
                                         <li><hr className="dropdown-divider" /></li>
-                                        <li><a className="dropdown-item" href="/products">All Products</a></li>
-                                        <li><a className="dropdown-item" href="/categories">All Categories</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/products">All Products</a></li>
+                                        <li><a className="dropdown-item" href="/flavors/categories">All Categories</a></li>
                                     </ul>
                                 </li>
                                 <li className="nav-item me-2">
-                                    <NavLink activeclassname="active" to="/gallery" className="nav-link px-2">Gallery</NavLink>
+                                    <NavLink activeclassname="active" to="/flavors/gallery" className="nav-link px-2">Gallery</NavLink>
                                 </li>
                                 <li className="nav-item me-2">
-                                    <NavLink activeclassname="active" to="/about" className="nav-link px-2">About Us</NavLink>
+                                    <NavLink activeclassname="active" to="/flavors/about" className="nav-link px-2">About Us</NavLink>
                                 </li>
                                 <li className="nav-item me-2">
-                                    <NavLink activeclassname="active" to="/contact" className="nav-link px-2">Contact Us</NavLink>
+                                    <NavLink activeclassname="active" to="/flavors/contact" className="nav-link px-2">Contact Us</NavLink>
                                 </li>
                                 <li className="nav-item me-2">
-                                    <NavLink activeclassname="active" to="/sitemap" className="nav-link px-2">Site Map</NavLink>
+                                    <NavLink activeclassname="active" to="/flavors/sitemap" className="nav-link px-2">Site Map</NavLink>
                                 </li>
                             </ul>
                         </div>
@@ -163,12 +163,12 @@ function Layout() {
                             </h6>
                             <div className='row'>
                                 <div className='col-6 col-lg-12'>
-                                    <div className='mb-1'><a href="/products" className="text-reset text-decoration-none">All Products</a></div>
-                                    <div className='mb-1'><a href="/categories" className="text-reset text-decoration-none">All Categories</a></div>
+                                    <div className='mb-1'><a href="/flavors/products" className="text-reset text-decoration-none">All Products</a></div>
+                                    <div className='mb-1'><a href="/flavors/categories" className="text-reset text-decoration-none">All Categories</a></div>
                                 </div>
                                 <div className='col-6 col-lg-12'>
-                                    <div className='mb-1'><a href="/about" className="text-reset text-decoration-none">About Us</a></div>
-                                    <div className='mb-1'><a href="/contact" className="text-reset text-decoration-none">Contact Us</a></div>
+                                    <div className='mb-1'><a href="/flavors/about" className="text-reset text-decoration-none">About Us</a></div>
+                                    <div className='mb-1'><a href="/flavors/contact" className="text-reset text-decoration-none">Contact Us</a></div>
                                 </div>
                             </div>
                         </div>
