@@ -13,7 +13,7 @@ function Gallery({ db }) {
                     <div className="mb-3">Let us show you a sneek peek at how our spices and organic products can help complement your dishes, whether you prefer American, European, Asian or any various other cuisines around the world.</div>
                 </div>
                 <div className="col-lg-4">
-                    <img src={process.env.PUBLIC_URL + "images/gallery/main.jpg"} className="w-100" alt="" title="" />
+                    <img src={process.env.PUBLIC_URL + "/images/gallery/main.jpg"} className="w-100" alt="" title="" />
                 </div>
             </div>
 

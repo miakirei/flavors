@@ -78,7 +78,7 @@ function Layout() {
                         <div className="collapse navbar-collapse order-lg-0 navbars fs-55" id="navbar1">
                             <ul className="navbar-nav ms-auto my-2 my-lg-0 navbar-nav-scroll">
                                 <li className="nav-item me-2">
-                                    <NavLink exact='true' activeclassname="active" to="/flavors" className="nav-link px-2">
+                                    <NavLink end activeclassname="active" to="/flavors" className="nav-link px-2">
                                         <i className="bi bi-house-fill"></i>
                                     </NavLink>
                                 </li>
