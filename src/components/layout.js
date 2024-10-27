@@ -40,6 +40,7 @@ function Layout() {
             setErrorMsg('Geolocation is not supported by this browser.');
         }
     };
+    console.log(navigator.geolocation)
 
     const navigate = useNavigate();
     let [search, setSearch] = useState("");
@@ -66,7 +67,7 @@ function Layout() {
                     <div className="container-fluid d-flex justify-content-between">
                         <Link to="/flavors" className="navbar-brand me-0">
                             <div className="d-flex fs-1 align-items-center">
-                                <img src="/images/logo.png" alt="Logo" width="50" className="me-2" />
+                                <img src={process.env.PUBLIC_URL + "/images/logo.png"} alt="Logo" width="50" className="me-2" />
                                 FLAVORS
                             </div>
                         </Link>
@@ -126,12 +127,12 @@ function Layout() {
             </div>
 
             <footer className="bg-warning-subtle text-muted mt-auto">
-                <button className='scroll-to-top btn rounded-circle p-0' onClick={scrollToTop}><img width={"80px"} src='/images/top.png' alt='Top' /></button>
+                <button className='scroll-to-top btn rounded-circle p-0' onClick={scrollToTop}><img width={"80px"} src={process.env.PUBLIC_URL + '/images/top.png'} alt='Top' /></button>
                 <div className="container pt-3">
                     <div className="row mt-3">
                         <div className="col-lg-6 mx-auto mb-md-0 mb-4">
                             <div className='container row'>
-                                <div className='col-4'><img src="/images/logo.png" alt="Logo" className="w-100" /></div>
+                                <div className='col-4'><img src={process.env.PUBLIC_URL + "/images/logo.png"} alt="Logo" className="w-100" /></div>
                                 <div className='col-8 ps-5'>
                                     <div className='d-flex flex-row'>
                                         <i className="bi bi-geo-alt-fill fs-1"></i>
@@ -153,8 +154,8 @@ function Layout() {
                         <div className="col-lg-4 ps-5 mt-4 mt-lg-0 mx-auto mb-4">
                             <h6 className="text-uppercase fw-bold mb-4">Our partners</h6>
                             <div className='row'>
-                                <div className='col-sm-6 col-lg-12 col-xl-6'><img src='/images/fpt.png' className='object-fit-cover w-100' alt='FPT' /></div>
-                                <div className='col-sm-6 col-lg-12 col-xl-6'><img src='/images/aptech.png' className='object-fit-cover w-100' alt='Aptech' /></div>
+                                <div className='col-sm-6 col-lg-12 col-xl-6'><img src={process.env.PUBLIC_URL + '/images/fpt.png'} className='object-fit-cover w-100' alt='FPT' /></div>
+                                <div className='col-sm-6 col-lg-12 col-xl-6'><img src={process.env.PUBLIC_URL + '/images/aptech.png'} className='object-fit-cover w-100' alt='Aptech' /></div>
                             </div>
                         </div>
                         <div className="col-lg-2 ps-5 mx-auto mb-4">

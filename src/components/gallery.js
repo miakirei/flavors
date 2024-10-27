@@ -13,7 +13,7 @@ function Gallery({ db }) {
                     <div className="mb-3">Let us show you a sneek peek at how our spices and organic products can help complement your dishes, whether you prefer American, European, Asian or any various other cuisines around the world.</div>
                 </div>
                 <div className="col-lg-4">
-                    <img src="images/gallery/main.jpg" className="w-100" alt="" title="" />
+                    <img src={process.env.PUBLIC_URL + "images/gallery/main.jpg"} className="w-100" alt="" title="" />
                 </div>
             </div>
 
@@ -29,7 +29,7 @@ function Gallery({ db }) {
                             <div className="d-flex flex-row flex-wrap mt-3 mt-lg-0 col-lg-6">
                                 {items.image.map((item, index) => (
                                     <a href="#!" type="button" className="w-25 p-1 rounded thumb" data-bs-toggle="modal" data-bs-target={`#${items.id}${index + 1}Modal`} key={index}>
-                                        <img src={item.img} height="100px" className="object-fit-cover w-100 shadow rounded" alt={`Pho ${index + 1}`} />
+                                        <img src={process.env.PUBLIC_URL + item.img} height="100px" className="object-fit-cover w-100 shadow rounded" alt={`Pho ${index + 1}`} />
                                     </a>
                                 ))}
                                 {items.image.map((item, index) => (
@@ -38,7 +38,7 @@ function Gallery({ db }) {
                                             <div className="modal-dialog modal-lg modal-dialog-centered">
                                                 <div className="modal-content">
                                                     <div className="modal-header">
-                                                        <img src={item.img} className="object-fit-cover w-100" alt={`Pho ${index + 1}`} />
+                                                        <img src={process.env.PUBLIC_URL + item.img} className="object-fit-cover w-100" alt={`Pho ${index + 1}`} />
                                                     </div>
                                                     <div className="modal-body">
                                                         <div>{item.desc}</div>

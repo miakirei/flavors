@@ -11,7 +11,7 @@ function Categories({ cat }) {
                 {list.map((category, index) => (
                     <div className="col-6 col-md-4 col-xl-3">
                         <Link to={`/categories${category.link}`} className="text-decoration-none text-dark" key={index}>
-                            <img src={category.img} className="w-100 rounded thumb" alt={category.name} />
+                            <img src={process.env.PUBLIC_URL + category.img} className="w-100 rounded thumb" alt={category.name} />
                             <div className="h5 text-center mt-1">{category.name}</div>
                         </Link>
                     </div>

@@ -23,36 +23,36 @@ function ProductInfo({ db }) {
                                     <div id="productCarousel" className="carousel slide" data-bs-ride="carousel">
                                         <div className="carousel-indicators">
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="0" className="thumb active">
-                                                <img src={`../${item.image.i1}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 1`} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i1}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 1`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="1" className="thumb">
-                                                <img src={`../${item.image.i2}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 2`} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i2}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 2`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="2" className="thumb">
-                                                <img src={`../${item.image.i3}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 3`} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i3}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 3`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="3" className="thumb">
-                                                <img src={`../${item.image.i4}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 4`} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i4}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 4`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="4" className="thumb">
-                                                <img src={`../${item.image.i5}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 5`} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i5}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 5`} />
                                             </button>
                                         </div>
                                         <div className="carousel-inner">
                                             <div className="carousel-item active">
-                                                <img src={`../${item.image.i1}`} className="d-block w-100" alt={`${item.name} 1`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i1}`} className="d-block w-100" alt={`${item.name} 1`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={`../${item.image.i2}`} className="d-block w-100" alt={`${item.name} 2`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i2}`} className="d-block w-100" alt={`${item.name} 2`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={`../${item.image.i3}`} className="d-block w-100" alt={`${item.name} 3`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i3}`} className="d-block w-100" alt={`${item.name} 3`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={`../${item.image.i4}`} className="d-block w-100" alt={`${item.name} 4`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i4}`} className="d-block w-100" alt={`${item.name} 4`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={`../${item.image.i5}`} className="d-block w-100" alt={`${item.name} 5`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `../${item.image.i5}`} className="d-block w-100" alt={`${item.name} 5`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                         </div>
                                         <button className="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
@@ -108,6 +108,33 @@ function ProductInfo({ db }) {
                                     </tbody>
                                 </table>
                             </div>
+                        </div>
+                        <div className="container mt-4 px-3 px-lg-5">
+                            <div className="h5 mb-3">Product Reviews:<span className="text-secondary"> ({item.reviews.length} Reviews)</span></div>
+                            {item.reviews.map((review, index) => (
+                                <div className="row mb-3" key={index}>
+                                    <div className="col-2 d-none d-lg-block text-center">
+                                        <div className="h5">{review.name}</div>
+                                        <div>{review.date}</div>
+                                        <div title={`Rated ${review.rating} out of 5`}><PrintRating rating={parseInt(review.rating)} /></div>
+                                    </div>
+                                    <div className="col-10 d-none d-lg-block">
+                                        <div className="h6">{review.title}</div>
+                                        <div>{review.content}</div>
+                                    </div>
+                                    <div className="d-flex flex-row d-lg-none justify-content-between">
+                                        <div className="h5">{review.name}</div>
+                                        <div>{review.date}</div>
+                                    </div>
+                                    <div className="d-lg-none">
+                                        <div className="d-flex flex-row justify-content-between">
+                                            <div className="h6 my-1">{review.title}</div>
+                                            <div className="h6 my-1" title={`Rated ${review.rating} out of 5`}><PrintRating rating={parseInt(review.rating)} /></div>
+                                        </div>
+                                        <div>{review.content}</div>
+                                    </div>
+                                </div>
+                            ))}
                         </div>
                     </div>
                 ))}

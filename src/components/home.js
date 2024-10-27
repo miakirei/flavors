@@ -45,7 +45,7 @@ function Home({ db, cat }) {
                 <div className="carousel-inner">
                     {images.map((image, index) => (
                         <div className={`carousel-item ${index === 0 ? 'active' : ''}`} key={index}>
-                            <img src={image} className="d-block w-100" alt={`Slide ${index + 1}`} style={{ objectFit: 'cover', height: '40vh' }} />
+                            <img src={process.env.PUBLIC_URL + image} className="d-block w-100" alt={`Slide ${index + 1}`} style={{ objectFit: 'cover', height: '40vh' }} />
                         </div>
                     ))}
                 </div>
@@ -72,7 +72,7 @@ function Home({ db, cat }) {
                                 </nav>
                             </div>
                         </div>
-                        <button className="btn p-0 sticky-top d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" style={{ top: "40%", marginLeft: "-10px" }}><img src="/images/sidebar.png" alt="sidebar" /></button>
+                        <button className="btn p-0 sticky-top d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" style={{ top: "40%", marginLeft: "-10px" }}><img src={process.env.PUBLIC_URL + "/images/sidebar.png"} alt="sidebar" /></button>
                         <nav id="sidenav" className="nav nav-pills flex-column sticky-top d-none d-md-block p-2" style={{ top: "25%" }}>
                             <a className={splitLocation[1] === "best" ? "m-1 nav-link active" : "m-1 nav-link"} href="#best"><div className="h4">Best Sellers</div></a>
                             <a className={splitLocation[1] === "new" ? "m-1 nav-link active" : "m-1 nav-link"} href="#new"><div className="h4">New Arrivals</div></a>
@@ -185,7 +185,7 @@ function Home({ db, cat }) {
                                     {categories.map((category, index) => (
                                         <div className="col-6 col-lg-4 col-xl-3">
                                             <Link to={`/categories${category.link}`} className="text-decoration-none text-dark" key={index}>
-                                                <img src={category.img} className="w-100 thumb rounded" alt={category.name} />
+                                                <img src={process.env.PUBLIC_URL + category.img} className="w-100 thumb rounded" alt={category.name} />
                                                 <div className="h5 text-center mt-1">{category.name}</div>
                                             </Link>
                                         </div>
