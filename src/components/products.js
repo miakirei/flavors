@@ -15,7 +15,7 @@ function Products({ db }) {
                 <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 g-3">
                     {list.map(item => (
                         <div className="col" key={item.id}>
-                            <Link to={`/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
+                            <Link to={`/flavors/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
                                 <div className="card h-100">
                                     <div className={`card-header h6 ${item.category.match(RegExp("best", "i")) ? "bg-featured" : `${item.sale > 0 ? "bg-success-subtle" : `${item.category.match(RegExp("new", "i")) ? "bg-danger-subtle" : "bg-warning-subtle"}`}`}`}>
                                         {item.category.match(RegExp("best", "i")) ? "- Featured " : ""}

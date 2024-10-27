@@ -88,7 +88,7 @@ function Home({ db, cat }) {
                                 <div className="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-3">
                                     {best.map(item => (
                                         <div className="col" key={item.id}>
-                                            <Link to={`/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
+                                            <Link to={`/flavors/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
                                                 <div className="card h-100">
                                                     <div className={`card-header h6 ${item.category.match(RegExp("best", "i")) ? "bg-featured" : `${item.sale > 0 ? "bg-success-subtle" : `${item.category.match(RegExp("new", "i")) ? "bg-danger-subtle" : "bg-warning-subtle"}`}`}`}>
                                                         {item.category.match(RegExp("best", "i")) ? "- Featured " : ""}
@@ -120,7 +120,7 @@ function Home({ db, cat }) {
                                 <div className="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-3">
                                     {newarv.map(item => (
                                         <div className="col" key={item.id}>
-                                            <Link to={`/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
+                                            <Link to={`/flavors/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
                                                 <div className="card h-100">
                                                     <div className={`card-header h6 ${item.category.match(RegExp("best", "i")) ? "bg-featured" : `${item.sale > 0 ? "bg-success-subtle" : `${item.category.match(RegExp("new", "i")) ? "bg-danger-subtle" : "bg-warning-subtle"}`}`}`}>
                                                         {item.category.match(RegExp("best", "i")) ? "- Featured " : ""}
@@ -152,7 +152,7 @@ function Home({ db, cat }) {
                                 <div className="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-3">
                                     {sale.map(item => (
                                         <div className="col" key={item.id}>
-                                            <Link to={`/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
+                                            <Link to={`/flavors/products/${item.id}`} state={{ background: location }} className="text-decoration-none">
                                                 <div className="card h-100">
                                                     <div className={`card-header h6 ${item.category.match(RegExp("best", "i")) ? "bg-featured" : `${item.sale > 0 ? "bg-success-subtle" : `${item.category.match(RegExp("new", "i")) ? "bg-danger-subtle" : "bg-warning-subtle"}`}`}`}>
                                                         {item.category.match(RegExp("best", "i")) ? "- Featured " : ""}
@@ -184,7 +184,7 @@ function Home({ db, cat }) {
                                 <div className="row">
                                     {categories.map((category, index) => (
                                         <div className="col-6 col-lg-4 col-xl-3">
-                                            <Link to={`/categories${category.link}`} className="text-decoration-none text-dark" key={index}>
+                                            <Link to={`/flavors/categories${category.link}`} className="text-decoration-none text-dark" key={index}>
                                                 <img src={process.env.PUBLIC_URL + category.img} className="w-100 thumb rounded" alt={category.name} />
                                                 <div className="h5 text-center mt-1">{category.name}</div>
                                             </Link>
