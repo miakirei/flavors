@@ -29,7 +29,7 @@ function App() {
 
     return (
       <div>
-        <Routes location={background || location}>
+        <Routes location={background || location} basename="/flavors">
           <Route path="/flavors" element={<Layout />}>
             <Route index element={<Home db={spices.concat(mixes, chilies, peppers, herbs)} cat={categories} />} />
             <Route path="/flavors/products" element={<Products db={spices.concat(mixes, chilies, peppers, herbs)} />} />
