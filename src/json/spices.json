@@ -1,0 +1,39 @@
+[
+    {
+        "id": "s01",
+        "name": "Allspice Berries",
+        "price": "8.00",
+        "net": "50",
+        "image": {
+            "i1": "images/products/s01_01.jpg",
+            "i2": "images/products/s01_02.jpg",
+            "i3": "images/products/s01_03.jpg",
+            "i4": "images/products/s01_04.jpg",
+            "i5": "images/products/s01_05.jpg"
+        },
+        "short": "Allspice Berries are the dried, unripe berries from the Pimenta dioica, a small evergreen tree.",
+        "description": "Allspice Berries are the dried, unripe berries from the Pimenta dioica, a small evergreen tree. Allspice Berries are also called allspice berries, allspice berry, spiced berries, or pimienta gorda. Allspice is often misconstrued as a spice blend, but it was given this name because its flavor evokes a combination of several sweet spices. Mexican Allspice Berries have the largest size and darkest color relative to other allspice growing countries. They have a volatile oil content of approximately 2-3% by weight. Allspice Berries are popular with: cafes, Mexican restaurants, and brewpubs; jerky and cocktail mix manufacturers; independent spice shops; seasoning companies; distillers; and breweries",
+        "howto": "Add Allspice Berries to pickling brine and pickle onions, beets, or Pickled Blueberries. Grind them into a homemade German Style Mustard or Ketchup, or into Birria, a Mexican beef stew. For a sweet, nutty treat, use them in these Gingerspice Walnuts. Add ground Allspice Berries to caramel for an autumn-spiced treat, toast and grind and stir into pumpkin pie, or sprinkle over rice pudding. They are a standard ingredient in seed-based sauces called pipians and in jerk seasoning. Allspice Berries pair well with habaneros, cumin, onion, tamarind, cinnamon, chocolate, cloves, pumpkin, ham, cakes, puddings, and gum.",
+        "altname": "Allspice berry, spiced berries, whole allspice, pimienta gorda",
+        "ingredients": "Whole allspice berry",
+        "flavor": "Complex flavor reminiscent of pepper, clove, cinnamon, and ginger",
+        "uses": "Sauces, pickling, DIY seasoning blends, desserts",
+        "cuisine": "Mexican, Caribbean, American",
+        "origin": "Guatemala, Honduras, Mexico",
+        "reviews": [
+            {
+                "name": "Al W.",
+                "date": "02/02/2022",
+                "rating": "5",
+                "content": "First time purchaser from Spices Inc. and I am very impressed! Items I ordered were well labeled, securely packed, and delivered very promptly, even with standard shipping. The berries have only been used in 1 recipe so far (Colombian Braised Beef), and are part of a bunch of interesting spices in that case. All I can say is we really liked that dish, and I am sure they did their part. I will be buying all my spices here from now on."
+            },
+            {
+                "name": "Robert S.",
+                "date": "15/04/2022",
+                "rating": "4",
+                "content": "They are very aromatic. A few stems, but they shouldn't matter. What you should ask is: What did you think of the Jamaican jerk sample that we included?"
+            }
+        ],
+        "category": "spices"
+    }
+]

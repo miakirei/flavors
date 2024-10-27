@@ -1,0 +1,419 @@
+[
+    {
+        "id": "c01",
+        "name": "Organic Ancho Chili Powder",
+        "price": 13.5,
+        "net": 3,
+        "image": {
+            "i1": "images/products/c01_01.jpg",
+            "i2": "images/products/c01_02.jpg",
+            "i3": "images/products/c01_03.jpg",
+            "i4": "images/products/c01_04.jpg",
+            "i5": "images/products/c01_05.jpg"
+        },
+        "short": "Ancho Chili is a mild chili that measures 500-1,500 on the Scoville Heat Scale.",
+        "description": {
+            "d1": "Ancho Chili Powder, Capsicum annum, is a mild chili that measures 500-1,500 on the Scoville Heat Scale. It is also called ground ancho chili or organic ancho chili powder.",
+            "d2": "Organic Ancho Chili Powder comes from grinding up a dried poblano pepper. The poblano chili, when dried, is called chili ancho, which translates to 'wide chili'.",
+            "d3": "The Ancho chili pepper is the most used dried chili in authentic Mexican cuisine and is the top-selling pepper to our Mexican restaurant customers. These chilis are especially popular in Southwestern and Tex-Mex cuisines. Organic Ancho Chili Powder is popular with food trucks; taco restaurants; frozen meal manufacturers; seasoning companies; independent spice shops; and olive oil shops."
+        },
+        "altname": "Ground ancho chili or organic ancho chili powder",
+        "ingredients": "Organic ground ancho chilis",
+        "flavor": "Mild fruity, sweet, slightly smoky, with undertones of plum, raisin, tobacco, and a hint of earthy bitterness",
+        "uses": "Moles, enchiladas, salsas, sauces, soups, stews, tacos, chilis, chocolates, desserts",
+        "cuisine": "Mexican, Tex-Mex, American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Larry",
+                "date": "01/08/2023",
+                "rating": 5,
+                "title": "Deep flavor",
+                "content": "Has a deep robust flavor. Use primarily mixed with other peppers."
+            },
+            {
+                "name": "Bernie",
+                "date": "03/07/2023",
+                "rating": 5,
+                "title": "Great!",
+                "content": "I use it to make chili seasoning. Great!"
+            },
+            {
+                "name": "Stephen",
+                "date": "23/09/2022",
+                "rating": 5,
+                "title": "Love it!",
+                "content": "I love this chili! I use it as a base for a hot sauce. The company is great and usually ships quickly (even with Postal slowing). The website is very easy to navigate."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis, organic",
+        "sale": 50
+    },
+    {
+        "id": "c02",
+        "name": "Aleppo Pepper",
+        "price": 9,
+        "net": 2.5,
+        "image": {
+            "i1": "images/products/c02_01.jpg",
+            "i2": "images/products/c02_02.jpg",
+            "i3": "images/products/c02_03.jpg",
+            "i4": "images/products/c02_04.jpg",
+            "i5": "images/products/c02_05.jpg"
+        },
+        "short": "Aleppo Pepper is a medium heat pepper that measures 2,500-5,000 SHU (Scoville Heat Units).",
+        "description": {
+            "d1": "Aleppo Pepper, Capsicum annuum, is a medium heat pepper that measures 2,500-5,000 SHU (Scoville Heat Units). Pronounced ah-LEH-poe, it is also called Aleppo chili flakes, Aleppo pepper flakes, or Aleppo chilli.",
+            "d2": "The Aleppo Chili is native to the region around the city of Aleppo in northern Syria. It did not originate in Aleppo, but once traders brought this pepper's ancestors over from the New World and across northern Africa, it quickly took root in the fields and the hearts of the Syrian people. The pepper fields of Syria have been destroyed in the ongoing tragedy of their decade-plus-long civil war, so most commercially available Aleppo Pepper available is currently grown in Turkey.",
+            "d3": "Our Aleppo Chili Peppers are grown from Aleppo pepper seeds, carried across the border, and transplanted in Turkey. Despite the supply chain difficulties, many chiliheads consider Aleppo pepper to be one of the wonders of the chili world and a flavorful departure from the more ubiquitous crushed red pepper flakes. These Aleppo chili flakes are popular with our Middle Eastern restaurants, brewpubs, sauce companies, and gourmet market customers."
+        },
+        "altname": "Aleppo chili flakes, Aleppo pepper flakes, or Aleppo chilli",
+        "ingredients": "Aleppo Pepper",
+        "flavor": "A fruity, raisin-like flavor with an undertone of earthy cumin and lemony top notes",
+        "uses": "Use with eggs, pasta, root vegetables, tomato-based dishes, and in baking",
+        "cuisine": "Mediterranean, Middle Eastern",
+        "origin": "Turkey",
+        "reviews": [
+            {
+                "name": "Anna",
+                "date": "11/08/2023",
+                "rating": 5,
+                "title": "Nice",
+                "content": "My Sister-in-law said it was the best thing they brought from Turkey. She made a soup here and put some in. I couldn't believe how it made the flavor just come to life. I bought some for myself and a pack for my son. I have ordered 3 times and 2 of those you sent a small pack of another kind which I gave my son. I am 91, widower and live alone, he grills more than I do. I also gave 6 others in the family. Interesting that 2 of those families have small children and they like it also."
+            },
+            {
+                "name": "JI",
+                "date": "12/08/2022",
+                "rating": 5,
+                "title": "Enjoyed it",
+                "content": "I've sprinkled it on sliced cucumbers & tomatoes and on bread (with mayonnaise). I've very much enjoyed the flavor. I was really anxious to try it based on the discussion by Spice, Inc. The heat is about right such that if I over season and use a bit too much (quantity) it's still OK. When a recipe calls for red pepper flakes this is what I use. I'll be buying more in the future."
+            },
+            {
+                "name": "Joan",
+                "date": "27/08/2021",
+                "rating": 4,
+                "title": "Inadequate",
+                "content": "It was flavorful, but for me, not hot enough.... The flakes don't separate when shaken and require the work of a hand-held fork to spread it on the food. My husband and I used to grow our own habaneros when we lived in a warmer climate."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis",
+        "sale": 0
+    },
+    {
+        "id": "c03",
+        "name": "Organic California Paprika",
+        "price": 11.5,
+        "net": 3,
+        "image": {
+            "i1": "images/products/c03_01.jpg",
+            "i2": "images/products/c03_02.jpg",
+            "i3": "images/products/c03_03.jpg",
+            "i4": "images/products/c03_04.jpg",
+            "i5": "images/products/c03_05.jpg"
+        },
+        "short": "Organic California Paprika is a very mild chili powder, with a maximum Scoville Heat Unit (SHU) measurement of 500 and a premium ASTA value of 120.",
+        "description": {
+            "d1": "Organic California Paprika is a very mild chili powder, with a maximum Scoville Heat Unit (SHU) measurement of 500 and a premium ASTA value of 120. It is made from various cultivars of Capsicum annuum chilis that meet the correct heat and color requirements",
+            "d2": "Also known as organic paprika, paprika organic, bulk paprika, or organic paprika powder, paprika chilis are relished for their vibrant color and mildly pungent, peppery yet sweet flavor. Paprika varieties are distinguished by their high levels of red pigments called capsanthin and capsorubin that are in the walls or pericarp of the fruit. Sweet paprika is made primarily of pericarp; the innards, seeds, and stems are discarded.",
+            "d3": "Organic California Paprika is popular with jerky, salt, and sauce manufacturers; food trucks; taco, Middle Eastern, and pizza restaurants; independent spice shops; and seasoning companies. For a full list of our paprika products, check out our paprika page."
+        },
+        "altname": "Organic paprika, paprika organic, bulk paprika, or organic paprika powder",
+        "ingredients": "Ground California paprika",
+        "flavor": "Mild, mellow, earthy, and sweet with a fresh, almost green flavor",
+        "uses": "Stews, salsas, barbecue rubs, signature rubs and seasoning blends, chicken, beef, eggs, cheeses",
+        "cuisine": "Indian, Hungarian, Mediterranean, American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Victoria",
+                "date": "20/06/2024",
+                "rating": 5,
+                "title": "Delicious",
+                "content": "Most paprika I have tried from local grocery stores is lacking in flavor. I have never had that issue with any spice I've bought from FLAVORS, and this paprika is delicious compared to anything else I've tried!"
+            },
+            {
+                "name": "Anonymous",
+                "date": "06/04/2024",
+                "rating": 5,
+                "title": "Very fresh",
+                "content": "This is one of four cornerstone ingredients in my personal seasoning mix. Fresh, flavorful, good color and texture."
+            },
+            {
+                "name": "Johnny",
+                "date": "14/03/2024",
+                "rating": 3,
+                "title": "Lacking",
+                "content": "Not so excited with the taste and color. I loved the idea of domestic paprika, but comparing the paprika from Hungary this one lacks flavor and color."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis, new",
+        "sale": 20
+    },
+    {
+        "id": "c04",
+        "name": "Smoked Sweet Paprika",
+        "price": 10,
+        "net": 2.5,
+        "image": {
+            "i1": "images/products/c04_01.jpg",
+            "i2": "images/products/c04_02.jpg",
+            "i3": "images/products/c04_03.jpg",
+            "i4": "images/products/c04_04.jpg",
+            "i5": "images/products/c04_05.jpg"
+        },
+        "short": "Smoked Sweet Paprika is a mild chile powder that measures just 100-250 Scoville Heat Units (SHU).",
+        "description": {
+            "d1": "Smoked Sweet Paprika, Capsicum annuum, is a mild chile powder that measures just 100-250 Scoville Heat Units (SHU). It is also referred to as Spanish smoked paprika, sweet smoked paprika, or best-smoked paprika. It has a premium-level 120 ASTA value.",
+            "d2": "Closely related to its cousin Hungarian Sweet Paprika, this Spanish paprika chile has been dried, smoked over wood fires, de-seeded, and then slowly ground into a powder. Because the seeds have been removed, this ground chile pepper does not have the bitter undertones found when the seeds have been left in and then ground.",
+            "d3": "Smoke Sweet Paprika has complex flavors and smoky undertones that are extremely desirable in dishes that call for that flavor but don't have much heat. Smoked Paprika is a forgiving spice, so you may need more than you think to get a huge depth of flavor. It's perfect for those times when you're just looking for some subtle smokiness, though!"
+        },
+        "altname": "Spanish smoked paprika, sweet smoked paprika, or best-smoked paprika",
+        "ingredients": "Ground Paprika",
+        "flavor": "Rich in chile flavor and has a complexity and depth thanks to its smoky undertones",
+        "uses": "Use in egg dishes, meatloaf, potato dishes, vegetables, rice, homemade sauces, soups, salad dressings, and with tomatoes",
+        "cuisine": "Cajun, Creole, Hungarian and Spanish",
+        "origin": "Spain",
+        "reviews": [
+            {
+                "name": "Rose",
+                "date": "10/05/2024",
+                "rating": 5,
+                "title": "Smokey indulgence",
+                "content": "Amazing how your taste buds come alive with this smoked sweet paprika. I coat the top of salmon with this smoked sweet paprika then add raspberry jam and sprinkle a little cayenne pepper. So tasty! I sprinkle it on roasted vegetables and deviled eggs. My boys still say church eggs because when they were little that’s what I always made for after church lunches. This smoke spiced paprika goes with so much more! I highly recommend it!!"
+            },
+            {
+                "name": "Michael",
+                "date": "12/10/2023",
+                "rating": 5,
+                "title": "Quality paprika",
+                "content": "Adds a nice colour & smokey aroma."
+            },
+            {
+                "name": "Evelyn",
+                "date": "18/03/2023",
+                "rating": 5,
+                "title": "Packaging can be better",
+                "content": "I am giving this 5 stars because the Paprika is truly better than any other I have tried. The packaging can be better. The dispensing holes are way too large for such a fine powder. They need to be smaller.."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis, best",
+        "sale": 0
+    },
+    {
+        "id": "c05",
+        "name": "Cayenne Chili Powder",
+        "price": 9.5,
+        "net": 2.5,
+        "image": {
+            "i1": "images/products/c05_01.jpg",
+            "i2": "images/products/c05_02.jpg",
+            "i3": "images/products/c05_03.jpg",
+            "i4": "images/products/c05_04.jpg",
+            "i5": "images/products/c05_05.jpg"
+        },
+        "short": "Cayenne Chili Powder, measures approximately 30,000 Scoville Heat Units (SHU).",
+        "description": {
+            "d1": "Cayenne Chili Powder, Capsicum annuum, measures approximately 30,000 Scoville Heat Units (SHU). This powder is also known as cayenne chili powder or ground cayenne pepper. ",
+            "d2": "The cayenne chili most likely originated in French Guiana, located on the northern coast of South America. Christopher Columbus wrote about them during his expeditions around the Americas and brought them back to Spain as part of his bounty. Cayenne peppers quickly gained popularity in Spain and Portugal. Portuguese traders, in turn, brought cayenne chilies to India, who then turned the cultivation of hot peppers into a trading empire of their own.",
+            "d3": "These peppers are not known for their flavor as much as they are for their heat. They are a favorite purchase by butchers, small-batch hot sauce manufacturers, and brewpubs."
+        },
+        "altname": "Cayenne chili powder or ground cayenne pepper",
+        "ingredients": "Cayenne chili powder",
+        "flavor": "A fierce heat that greets you upfront and lingers, pungent aroma, and a mild flavor that’s almost dusty and fades quickly",
+        "cuisine": "American",
+        "origin": "India",
+        "reviews": [
+            {
+                "name": "Mark",
+                "date": "22/08/2023",
+                "rating": 5,
+                "title": "Great product",
+                "content": "Great flavor, bright red powder, not dulled by being in the presence of too much oxygen that might dull the color and pungency. Intense heat. The quality was evident as it had been in all the products I've purchased from the vendor throughout the years."
+            },
+            {
+                "name": "Edward",
+                "date": "09/08/2023",
+                "rating": 5,
+                "title": "Earthy",
+                "content": "A great earthy flavored chili powder. It's on the lower end of heat 30K SHU, I miss the 50k-80k stuff too. Use it to add a little bit of background heat that's not too intense."
+            },
+            {
+                "name": "Lois",
+                "date": "04/08/2022",
+                "rating": 5,
+                "title": "Just the right amount of heat",
+                "content": "Sauteed asparagus and onion with a dash of this pepper is so good! It gives a hint of heat without being overpowering. Waiting to see what I can do with it for barbecue season."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis",
+        "sale": 0
+    },
+    {
+        "id": "c06",
+        "name": "Cascabel Chilis",
+        "price": "19.82",
+        "net": "1",
+        "image": {
+            "i1": "images/products/c06_01.jpg",
+            "i2": "images/products/c06_02.jpg",
+            "i3": "images/products/c06_03.jpg",
+            "i4": "images/products/c06_04.jpg",
+            "i5": "images/products/c06_05.jpg"
+        },
+        "short": "Cascabel Chili (KAS-ka-bel), Capsicum annuum, are mild chilis and measure 1,500-2,500 Scoville Heat Units (SHU)",
+        "description": "Cascabel Chili (KAS-ka-bel), Capsicum annuum, are mild chilis and measure 1,500-2,500 Scoville Heat Units (SHU). They are also called cascabel pepper, cascabel chili, or chili cascabel. These peppers are mahogany brown, thick skinned, and have a light and nutty aroma. These peppers are round like a ball and are roughly 1½  inches in diameter. The word cascabel means “jingle bell”. It is called this because the seeds of this dried pepper rattle around inside the pepper when you shake it. It almost sounds like a maraca. There are approximately 10 chilis per ounce. Businesses that frequently purchase Cascabel Chilis are Mexican restaurants and cafes, spice shops, breweries and distilleries. One whole Cascabel pepper equals 1/4 to 1/2 teaspoon of powder. ",
+        "altname": "Chili cascabel, cascabel pepper, chili de cascabel, cascabel",
+        "ingredients": "Whole cascabel chilis",
+        "flavor": "Acidic, smoky, woody, with undertones of tobacco and nut.",
+        "cuisine": "Mexican",
+        "origin": "Mexico",
+        "reviews": [
+            {
+                "name": "William B.",
+                "date": "09/01/2022",
+                "rating": "5",
+                "content": "Insane quality! I will order ALL my chilies from Spices Inc.!!!!! Thank you!"
+            },
+            {
+                "name": "Cheryl L.",
+                "date": "23/10/2021",
+                "rating": "5",
+                "content": "I love cascabels. Bright, fruity, lots of flavor, perfect amount of heat for sauces that don't overwhelm with burn. Favorite use: Pollo con almendra mole recipe: dry sautee 1 c almond flour until light golden brown. In a blender, soak skins of 4 cascabels (use the seeds if you like it hotter) in 2 c chicken broth and 1/2 c white wine. Sautee until soft 2c chopped onion, 5 garlic cloves, 1T ground fenugreek, 1 T ground coriander. Add sauteed almond flour and the onion etc to the blender and blend smooth. In a large sautee pan, brown cut up chicken, and deglaze the pan with some of the mole. Add chicken back into pan, pour mole over the chicken, add 2 c water, and simmer lightly covered 45 min. Spectacular and unusual sauce. GF and DF... I've also used for Carne Adovada, which usually calls for NM chilis...I like Cascabels just as much as hatch."
+            },
+            {
+                "name": "Anonymous",
+                "date": "06/11/2015",
+                "rating": "4",
+                "content": "99 per half pound bag."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis",
+        "sale": 0
+    },
+    {
+        "id": "c07",
+        "name": "Chipotle Meco Chilis",
+        "price": "5.68",
+        "net": "1",
+        "image": {
+            "i1": "images/products/c07_01.jpg",
+            "i2": "images/products/c07_02.jpg",
+            "i3": "images/products/c07_03.jpg",
+            "i4": "images/products/c07_04.jpg",
+            "i5": "images/products/c07_05.jpg"
+        },
+        "short": "Chipotle Meco Chilis, Capsicum annuum, are mild-to-medium heat chilis that measure 2,500-10,000 Scoville Heat Units (SHU)",
+        "description": "Chipotle Meco Chilis, Capsicum annuum, are mild-to-medium heat chilis that measure 2,500-10,000 Scoville Heat Units (SHU). They are also known as chipotle meco, meco chili, chipotle ahumado, or chilis meco. Chipotle Meco Chilis are products of fresh jalapeños. Peppers picked when they have reached the very end of their ripening cycle and have turned a deep mahogany red are the Chipotle Meco Chilis. When smoked they turn ashy brown. They are 2-4 inches long and nearly 1 inch wide at the shoulder, tapering down to a point. One whole Chipotle Meco Chili equals 1/2 to 1 teaspoon of powder. There are approximately four Chipotle Meco Chilis per ounce. We also carry Chipotle Meco Chili Powder, and an assortment of whole Chipotle Morita Chilis, powders, and flakes.",
+        "altname": "Chipotle meco, meco chili, chipotle ahumado, or chilis meco",
+        "ingredients": "Whole, dried chipotle meco chili peppers",
+        "flavor": "Smoke-forward, spicy, grassy, fruity",
+        "cuisine": "Mexican",
+        "origin": "Mexico",
+        "reviews": [
+            {
+                "name": "Arthur B.",
+                "date": "27/06/2023",
+                "rating": "5",
+                "content": "Excellent as always! Was starting to sweat as I had only 5 left. Finally you got them back and as you know I ordered them instantly. Meco is by far my absolute favorite and yours are beautifully dried and smoked and yet still fresh and flexible. Thanks!"
+            },
+            {
+                "name": "Marie M.",
+                "date": "14/05/2023",
+                "rating": "5",
+                "content": "While I always have both the Morita and Meca chilies on hand in freezer and refrigerator, the Meco variety is ideal for adding smoky flavor with a mild heat level that just about everyone eating Mexican food finds tolerable and enjoyable."
+            },
+            {
+                "name": "Michael M.",
+                "date": "31/10/2018",
+                "rating": "4",
+                "content": "still nice I used them in a beed stew with nice results. Floral grassy leathery notes . Some what sharper finish."
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis",
+        "sale": 0
+    },
+    {
+        "id": "c08",
+        "name": "Jalapeno Flakes",
+        "price": "6.98",
+        "net": "0.8",
+        "image": {
+            "i1": "images/products/c08_01.jpg",
+            "i2": "images/products/c08_02.jpg",
+            "i3": "images/products/c08_03.jpg",
+            "i4": "images/products/c08_04.jpg",
+            "i5": "images/products/c08_05.jpg"
+        },
+        "short": "Dried Jalapeno Flakes (haa-luh-PAY-nyow), Capsicum annuum, are medium-heat chili flakes that measure 2,500-8,000 Scoville Heat Units (SHU).",
+        "description": "Dried Jalapeno Flakes (haa-luh-PAY-nyow), Capsicum annuum, are medium-heat chili flakes that measure 2,500-8,000 Scoville Heat Units (SHU). They are also called dried jalapeno, jalapeno flakes, or jalapeno pepper flakes.Jalapeno Flakes are similar to the more common red pepper flakes but are from the dried jalapeno chilis. Jalapeno Flakes are harder to come by even though Jalapeno peppers are the most common chili pepper used in the U.S.With a gentle pungency but noticeable heat, most fresh jalapenos are picked when they are still green in color. Some jalapenos are left on the plant until they are fully ripened at the end of the season. When at this mature stage, the peppers turn a deep crimson red and are then typically (but not always) dried and smoked.Dried Jalapeno Flakes are most popular with our creamery, butcher, and Mexican restaurant customers.",
+        "altname": "Dried jalapeno, jalapeno flakes, or jalapeno pepper flakes",
+        "ingredients": "Dried jalapeno flakes",
+        "flavor": "Earthy-grassy flavor with a sharp heat",
+        "cuisine": "American, Mexican",
+        "origin": "Depending on the time of year and availability, either Mexico or the US",
+        "reviews": [
+            {
+                "name": "Edie C.",
+                "date": "27/11/2021",
+                "rating": "5",
+                "content": "I gave the Jalapeno Flakes 5 stars. I love anything spiced with Jalapeno. Although this purchase is for a family member that feels the same as me. I know he will enjoy the Jalapeno Powder as well as the Flakes."
+            },
+            {
+                "name": "Jim G.",
+                "date": "16/10/2021",
+                "rating": "5",
+                "content": "These flakes work great in spicy jam recipes that my wife makes. The Chipotle flakes are great too. They are very spicy so be careful when you try them. She crushes them before mixing the powder into her batch of jam. She says they are more flavorful than the powder because they retain their flavor in the flake form longer."
+            },
+            {
+                "name": "Siegfried R.",
+                "date": "03/05/2021",
+                "rating": "5",
+                "content": "Liked them a lot"
+            }
+        ],
+        "category": "best, chilli, chili, chile, chillies, chilies, chiles, chillis, chilis",
+        "sale": 0
+    },
+    {
+        "id": "c09",
+        "name": "Pequin Chilis",
+        "price": "7.11",
+        "net": "1",
+        "image": {
+            "i1": "images/products/c09_01.jpg",
+            "i2": "images/products/c09_02.jpg",
+            "i3": "images/products/c09_03.jpg",
+            "i4": "images/products/c09_04.jpg",
+            "i5": "images/products/c09_05.jpg"
+        },
+        "short": "Pequin Chilis (puh-KEEN), Capsicum annuum, are hot chilis that measure 30,000-60,000 Scoville Heat Units (SHU).",
+        "description": "Pequin Chilis (puh-KEEN), Capsicum annuum, are hot chilis that measure 30,000-60,000 Scoville Heat Units (SHU). These little powerhouses are also called pequin pepper, chili pequin, or just pequin. Pequin peppers are roughly ½ long by ¼ wide with an elongated, oval shape that tapers to a point at the end. They are reddish-orange in color, and the skin is mostly smooth, with a bit of wrinkling. It's believed that the word pequin comes from the Spanish word pequeño, which means “small”, so Pequin chili means tiny chili. These chilis are some of the tiniest of the Capsicum annuum species.  There are approximately 50 chilis per ounce. 5 Pequin peppers = approximately ½ teaspoon Pequin chili powder.",
+        "altname": "Piquin peppers, dried chili pequin, chili pequin or dried pequin peppers",
+        "ingredients": "Piquin chili peppers",
+        "flavor": "Sharp heat. Mellow and nutty flavor with deep, smoky undertones and hints of citrus",
+        "cuisine": "Mexican, Asian, American",
+        "origin": "Mexico",
+        "reviews": [
+            {
+                "name": "Raymond L.",
+                "date": "13/05/2023",
+                "rating": "5",
+                "content": "SPICY 👍"
+            },
+            {
+                "name": "William B.",
+                "date": "09/01/2022",
+                "rating": "5",
+                "content": "The chilies are beautiful and delicious. Even the packaging is 5 star!!! I love Spices Inc.!!! Will order from them every time!!! - Chef Billy"
+            },
+            {
+                "name": "Larry M.",
+                "date": "24/10/2019",
+                "rating": "5",
+                "content": "Gret quick service on quality products"
+            }
+        ],
+        "category": "chilli, chili, chile, chillies, chilies, chiles, chillis, chilis",
+        "sale": 0
+    }
+]

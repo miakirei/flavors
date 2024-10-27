@@ -1,0 +1,372 @@
+[
+    {
+        "id": "p01",
+        "name": "Black Pepper Cracked",
+        "price": "7.48",
+        "net": "2.6",
+        "image": {
+            "i1": "images/products/p01_01.png",
+            "i2": "images/products/p01_02.png",
+            "i3": "images/products/p01_03.png",
+            "i4": "images/products/p01_04.png",
+            "i5": "images/products/p01_05.png"
+        },
+        "short": "Black Pepper Cracked, Piper nigrum, is also called cracked black pepper or cracked pepper",
+        "description": "Black Pepper Cracked, Piper nigrum, is also called cracked black pepper or cracked pepper. Its flavor is driven by a combination of piperine, a pungent chemical compound found throughout the body and exterior of a peppercorn, and a volatile oil content of approximately 1-2.5% by weight. Black pepper is a dried berry that grows in clusters on a flowering vine. Green Peppercorns and White Peppercorns are from the exact same vine, they are just harvested at different times or processed in different ways to highlight the various stages and flavors of peppercorn development. Business that frequently purchase Black Pepper Cracked are American, BBQ and pizza restaurants; delis; independent spice shops; olive oil shops; seasoning companies; distilleries; and companies who manufacture sausage, jerky and olive oil. Please visit our pepper page to browse all the varieties of pepper we have available. ",
+        "howto": "Use Black Pepper Cracked as part of the crunchy coating on Balsamic and Honey Salmon.  Some of our favorite savory dishes that feature Black Pepper Cracked are Tomato Galette for a delicious summer meal or Turkey Sausage with Roasted Vegetables for a more hearty cold weather dish. It gives warmth and depth to Spinach Tortellini Soup.  Pepper is not just for savory foods, try steeping it in cream for spicy-cold ice cream and mix more cracked black pepper in as the ice cream is finishing for extra heat and flavor. Black Pepper Cracked goes well on Caesar salad or in vinaigrettes, on chicken wings, breading, stuffings, mushrooms, popcorn shrimp, pasta, rice, chili, stew, or in sausages. Black pepper is a universal spice but it pairs particularly nicely with garlic, lemon, tomatoes, cream, beef, pork, stewed peaches, fennel, chiles, ginger, and cinnamon",
+        "altname": "Cracked black pepper or cracked pepper",
+        "ingredients": "Cracked black peppercorns",
+        "flavor": "Spicy, piney, citrusy, with floral hints",
+        "uses": "Beef dishes, vinaigrette, wings, breading, pasta, rice, chili, stew",
+        "cuisine": "Global",
+        "origin": "Vietnam",
+        "reviews": [
+            {
+                "name": "Mark L.",
+                "date": "11/22/2021",
+                "rating": "5",
+                "content": "Spectacular product in every way. Just like everything else you sell!"
+            },
+            {
+                "name": "Chass A.",
+                "date": "02/28/2021",
+                "rating": "5",
+                "content": "Good quality cracked pepper that's easy on the pocketbook. Thanks!!"
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p02",
+        "name": "Black Pepper Medium Grind",
+        "price": "7.98",
+        "net": "2.1",
+        "image": {
+            "i1": "images/products/p02_01.png",
+            "i2": "images/products/p02_02.png",
+            "i3": "images/products/p02_03.png",
+            "i4": "images/products/p02_04.png",
+            "i5": "images/products/p02_05.png"
+        },
+        "short": "This medium grind black pepper Piper nigrum is freshly ground black pepper that we grind weekly in our facility.",
+        "description": "This medium grind black pepper Piper nigrum is freshly ground black pepper that we grind weekly in our facility. There is a forward-tasting heat from the bioactive compound piperine, an alkaloid (a compound that contains nitrogen and often generates bitter flavors) that permeates both the seeds of the pepper and the pericarp (outer hull). Piperine combines with the essential oils in black pepper, that range between 1-2.5% value by weight, to create the assertive essence of black pepper. Medium Grind pepper is on 30 mesh (+30) and is sifted to remove dust.",
+        "howto": "Medium pepper grinds are typically used in pepper shakers on dining room tables at home and in restaurants. This is also the grind most called for in baking applications. Even though medium grind pepper does not have as robust a flavor as coarse or cracked black pepper grinds, it is ideal for seasoning to taste and quickly to add the familiar pepper flavor to food. Black pepper is common in European, North American, Southeast Asian, and South Indian cuisine. Pepper is typically added during and after cooking to heartier and stronger flavored foods such as cold cuts, gravies, hamburgers, meatballs, pot roasts, sausages, soup stocks, and steaks. In the United States, black pepper is heavily used in Cajun, Creole, and Southern cooking. Coat a steak in Dijon mustard and Ground Black Pepper for delicious flavor and a tart crunch. The classic Italian dish cacio e Pepe is a simple dish of Parmesan cheese and black pepper. Add Ground Black Pepper to fluffy biscuits for a morning treat. It adds great flavor and texture to stir fry, and if you’re in the mood for Vietnamese food, black pepper and sugar are paired to make sweet black pepper fish, a trendy dish. The beauty of black pepper (and its wide varieties) is that it can go nearly everywhere salt can go. Pepper pairs well with basil, beef, cilantro, coconut milk, creamy sauces, eggs, garlic, ginger, lemon, pork, seafood, red wine, vegetables, fermented soybeans, and soy sauce.",
+        "altname": "Fresh ground black pepper, 30 mesh black pepper, and black pepper spice",
+        "ingredients": "Black Peppercorns",
+        "flavor": "Pungent, earthy, and resinous, with woodsy pine and citrus undertones",
+        "uses": "Heartier flavored foods such as cold cuts, gravies, hamburgers, meatballs, pot roasts, sausages, soup stocks, and steaks",
+        "cuisine": "All",
+        "origin": "India, Indonesia, Vietnam",
+        "reviews": [
+            {
+                "name": "Tom W.",
+                "date": "04/18/2024",
+                "rating": "5",
+                "content": "I love this pepper grind. It is not too fine and not too coarse. It is the perfect addition to my spice blends."
+            },
+            {
+                "name": "Pamela M.",
+                "date": "09/27/2023",
+                "rating": "5",
+                "content": "The size of grind is great to give you the pepper bite. It tastes as close to fresh ground as you can get without grinding it yourself. The selection of types and sizes are so good at Spices Inc."
+            }
+        ],
+        "category": "peppers, peppercorns, best"
+    },
+    {
+        "id": "p03",
+        "name": "Black Peppercorns",
+        "price": "7.48",
+        "net": "2.7",
+        "image": {
+            "i1": "images/products/p03_01.png",
+            "i2": "images/products/p03_02.png",
+            "i3": "images/products/p03_03.png",
+            "i4": "images/products/p03_04.png",
+            "i5": "images/products/p03_05.png"
+        },
+        "short": "Black Peppercorns, Piper nigrum, are also called peppercorn black, whole black peppercorns, or best black peppercorns.",
+        "description": "Black Peppercorns, Piper nigrum, are also called peppercorn black, whole black peppercorns, or best black peppercorns. Our Black Peppercorns contain between 1-2.5% essential oil. Black Peppercorns are a berry, the fruit of a climbing vine that emerged on the west coast of India and now thrives in tropical climates around the world. A peppercorn is technically a “drupe”, a thin-skinned and fleshy fruit that surrounds a single pit. Other examples of drupes are fruits like cherries and nectarines. Black, green, and white peppercorns are all products of the same vine, harvested and processed at different times to create these varied spices. You can browse the different varieties of peppercorns on our main peppercorn page. Whole black peppercorns are a favorite with our small-batch seasoning companies, independent spice stores, and sandwich restaurants.",
+        "howto": "Black Peppercorns are ubiquitous in kitchens across the country. Use them in any recipe that calls for pepper. They are best when ground to the coarseness or fineness called for in a recipe right before use. Black pepper goes well with basil, beef, cilantro, coconut milk, creamy sauces, eggs, fermented soybeans, garlic, ginger, lemon, pork, red wine, seafood, soy sauce, and vegetables. 1/4 cup Black Peppercorns = approximately 1 oz. ground peppercorns.",
+        "altname": "Peppercorn black, whole black peppercorns, or best black peppercorns.",
+        "ingredients": "Whole black peppercorns",
+        "flavor": "Resinous pine heat and deep, earthy flavor, with a grassy edge",
+        "uses": "Anywhere that black pepper is called for",
+        "cuisine": "All",
+        "origin": "Vietnam",
+        "reviews": [
+            {
+                "name": "William P.",
+                "date": "02/04/2024",
+                "rating": "5",
+                "content": "just right added the proper zing to our dinner"
+            },
+            {
+                "name": "Kristen B.",
+                "date": "01/08/2024",
+                "rating": "5",
+                "content": "We only use freshly ground pepper when we cook, so I was happy to find that these peppercorns are extremely high quality, fresh, and flavorful. Like everything I've ordered from here, this is a great product!"
+            }
+        ],
+        "category": "peppers, peppercorns, best"
+    },
+    {
+        "id": "p04",
+        "name": "Gourmet Peppercorn Mixer",
+        "price": "9.98",
+        "net": "2.5",
+        "image": {
+            "i1": "images/products/p04_01.png",
+            "i2": "images/products/p04_02.png",
+            "i3": "images/products/p04_03.png",
+            "i4": "images/products/p04_04.png",
+            "i5": "images/products/p04_05.png"
+        },
+        "short": "Our GoOur Gourmet Peppercorn Mixer, also known as gourmet peppercorns, brings the distinct flavors of black, white, green and pink peppercorns together in one blend.",
+        "description": "Our Gourmet Peppercorn Mixer, also known as gourmet peppercorns, brings the distinct flavors of black, white, green and pink peppercorns together in one blend. Black, white, and green peppercorns, Piper nigrum, average about 2% volatile oil. They are all berries from the same plant; the way they are harvested and processed accounts for the color and flavor differences. Pink peppercorns, Schinus mole,have nearly 4% volatile oil by weight, so this blend creates a palette of assertive flavors. Gourmet Peppercorn Mixer is regularly purchased by cafe and gastropub-style restaurants, seasoning companies, olive oil shops, spice shops, brewers, and companies who manufacture salts and jams. 1/4 cup Gourmet Peppercorn Mix = approximately 1 ounce ground peppercorns. Please visit our peppercorn page to browse the variety of peppercorns we have available.",
+        "howto": "To showcase the different characteristics of each peppercorn, we recommend using this as a finishing grind over most dishes. Top red snapper with a squeeze of fresh lemon and freshly-ground Gourmet Peppercorn Mixer. Mix into our Homemade Hummus for a peppery dip. Finish out-of-the-oven chicken wings with our Gourmet Peppercorn Mixer, or top your morning eggs or avocado toast with it. Perk up your greens with this blend when you make Spinach Rice. Add it to citrus vinaigrettes for an extra pop. Grind to a coarse grind and use as a rub for prime rib. Use a finer grind and mix into a crust for cherry pie or into a holiday batch of the classic German spice cookie, Pfeffernusse.",
+        "altname": "Gourmet peppercorns, gourmet pepper",
+        "ingredients": "Black, white, green, and pink peppercorns",
+        "flavor": "Fruity, sweet, gently vegetal, piney, with a clean burn",
+        "uses": "Beef, chicken, pork, seafood, soup, sauces",
+        "cuisine": "All Global",    
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Katie J.",
+                "date": "03/31/2024",
+                "rating": "5",
+                "content": "Best peppercorn mix we have ever purchased. Livens up everything we use it on - and we use a LOT of pepper for seasoning since cutting back on salt. Which leads me to huge compliments for Spice, Inc's salt free seasonings collection. I have purchased several items and can highly recommend ALL of them."
+            },
+            {
+                "name": "Milton A.",
+                "date": "01/26/2024",
+                "rating": "5",
+                "content": "Since I never received pretty hard to review"
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p05",
+        "name": "Green Peppercorns",
+        "price": "10.98",
+        "net": "1.7",
+        "image": {
+            "i1": "images/products/p05_01.png",
+            "i2": "images/products/p05_02.png",
+            "i3": "images/products/p05_03.png",
+            "i4": "images/products/p05_04.png",
+            "i5": "images/products/p05_05.png"
+        },
+        "short": "Green Peppercorns, Piper nigrum, are also called green peppercorns, green pepper spice, green pepper corn, or dried green peppercorns.",
+        "description":"Green Peppercorns, Piper nigrum, are also called green peppercorns, green pepper spice, green pepper corn, or dried green peppercorns. They have an essential oil content of up to 5% that is made up of mostly monoterpenes. Green Peppercorns are cousins to to black peppercorns. They are both the unripe berry of the same vine and can be picked at the same time. Unlike the heat drying process used to produce black peppercorns, Green Peppercorns are plucked from the peppercorn vine and then boiled, washed with potassium sulfite to halt oxidation_which causes the peppercorn to turn black_and then freeze dried or dehydrated. Green Peppercorns are popular with independent spice shops; olive oil shops; seasoning companies; food trucks; Middle Eastern and barbecue restaurants; and catering companies. Please browse our pepper page to see the variety of pepper available.",
+        "howto": "Green Peppercorns can be used exactly like black peppercorns. Grind them up and use them in vegetable soup, on pasta dishes, or in sauces or stews. Their delicate, peppery flavor goes wonderfully when it’s ground on fruit, so try them over strawberries, apricots, or pineapple. You can rehydrate Green Peppercorns by letting them sit for an hour in the liquid of your choice. Once rehydrated, you can use Green Peppercorns to make a classic sauce for steak by sauteing with shallots, butter, and your favorite dry red wine. Try creamy Green Peppercorn Steak, which was inspired by a classic French recipe, Steak au Poivre. Green Peppercorns are an aromatic version, less biting version of black peppercorns, and can be substituted wherever you used standard black pepper.",
+        "altname": "Green peppercorns, green pepper spice, green pepper corn, or dried green peppercorns",
+        "ingredients": "Dried whole green peppercorns",
+        "flavor": "Lightly floral, with brisk pine notes, unobtrusive heat that quickly fades",
+        "uses": "Anywhere black pepper can be used",
+        "cuisine": "Global",
+        "origin": "India",
+        "reviews": [
+            {
+                "name": "Debra R.",
+                "date": "01/10/2022",
+                "rating": "5",
+                "content": "Very fresh!"
+            },
+            {
+                "name": "Ruth R.",
+                "date": "04/29/2020",
+                "rating": "5",
+                "content": "So happy to find these online through Spices Inc. Very difficult to find in grocery stores. I use them in gravies, soups and sauces."
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p06",
+        "name": "Ground Sichuan Peppercorns",
+        "price": "29.04",
+        "net": "2.6",
+        "image": {
+            "i1": "images/products/p06_01.png",
+            "i2": "images/products/p06_02.png",
+            "i3": "images/products/p06_03.png",
+            "i4": "images/products/p06_04.png",
+            "i5": "images/products/p06_05.png"
+        },
+        "short": "Sichuan Peppercorn Powder, Zanthoxylum piperitum, is also called ground Sichuan pepper, ground Sichuan peppercorns or ground Szechuan peppercorns.",
+        "description":"Sichuan Peppercorn Powder, Zanthoxylum piperitum, is also called ground Sichuan pepper, ground Sichuan peppercorns or ground Szechuan peppercorns. It comes from the outer pod of the fruit of the prickly ash bush. Sichuan pepper is not related to black pepper. Sichuan pepper has a unique, tingling quality that you experience when you eat it. That’s thanks to a molecule called hydroxy-alpha sanshool, which causes the taste receptors in the mouth to send electrical impulses that result in the feeling of numb prickling and tingling. Scientifically this phenomenon is known as paresthesia, but that’s just a fancy way to say it gives you pins and needles. Businesses that frequently purchase Sichuan Peppercorn Powder are: Chinese, Asian-fusion, and fine dining restaurants; seasoning companies; independent spice shops; olive oil shops; and companies that manufacture sauces, ramen, marinades, condiments and snacks We also carry Whole Sichuan Peppercorns.",
+        "howto": "Sichuan Peppercorn Powder adds unexpected and deeply complex flavor to cheese, chicken, seafood and vegetables. Make Sichuan Cornish Hens by soaking the birds in a Sichuan-laced marinade. Rub over sliced steak to make Sichuan Pepper and Beef Stir Fry. Toss with tea and spices to make savory, bold Lapsang Souchong Duck Breast. Blend with spicy chiles for Sichuan Hot Sauce. Combine with rice vinegar, cabbage, sesame seeds, and scallions for a spicy Asian slaw. Make the pepper in a peppered steak stir-fry really pop. Blend with hoisin and soy sauces and brown sugar for an unforgettable glaze for ribs. ",
+        "altname": "Ground Sichuan pepper, ground Sichuan peppercorns, or ground Szechuan peppercorns",
+        "ingredients": "Ground Sichuan pepper",
+        "flavor": "Punchy, warm, earthy, lemony undertones, a tingly, numbing sensation",
+        "uses": "DIY BBQ rubs, steak, chicken, marinades, sauces, slaw, vegetable",
+        "cuisine": "Chinese, Asian",
+        "origin": "China",
+        "reviews": [
+            {
+                "name": "Mary K.",
+                "date": "12/27/2018",
+                "rating": "5",
+                "content": "Loved my entire order...Thank You!!!!"
+            },
+            {
+                "name": "Cheryl",
+                "date": "01/24/2016",
+                "rating": "5",
+                "content": "Ground Sichuan Pepper"
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p07",
+        "name": "Ground White Pepper",
+        "price": "9.48",
+        "net": "2.9",
+        "image": {
+            "i1": "images/products/p07_01.png",
+            "i2": "images/products/p07_02.png",
+            "i3": "images/products/p07_03.png",
+            "i4": "images/products/p07_04.png",
+            "i5": "images/products/p07_05.png"
+        },
+        "short": "Ground White Pepper, Piper nigrum, is also known as white pepper bulk, white pepper wholesale price, ground white pepper or white pepper ground.",
+        "description":"Ground White Pepper, Piper nigrum, is also known as white pepper bulk, white pepper wholesale price, ground white pepper or white pepper ground. It contains about 2% piperine by weight, the volatile oil that drives its heat and flavor, and is ground to 40-mesh, a very fine grind. White pepper comes from the fully ripened pepper berry_the same berry as black pepper, only with the dark outer hull removed. Our Ground White Pepper offers the same unmistakable sting as black pepper with a straightforward, un-nuanced flavor. Ground White Pepper is frequently purchased by Mediterranean, Vietnamese and American restaurants, delis, breweries and spice shops.  It is also a favorite with companies who manufacture packaged meats, jerky, seafood and cheeses. Browse our pepper page to see all the pepper options available.",
+        "howto": "Ground White Pepper is a terrific addition Hot And Sour Soup, but it should be added at the end of cooking time to convey its full heat and flavor.  It is perfect in Spaetzle, giving it subtle boost without overpowering with heat.  Need a quick, no fuss meal? Blend this into some Pureed Pea Soup with Shiitake Mushrooms. Invite the neighbors over to grill Kofte Kebabs wrapped in pita bread. Impress your holiday guests with Gravlax with Dill and serve with toast points.  It’s a classic in creamy hollandaise sauce and can also add a surprising lift to rich Alfredo sauce. Use it to finish white chicken chili or corn chowder. White pepper loves strawberries, so add to a summer salad, or make an invigorating strawberry shrub with a peppery bite.",
+        "altname": "White pepper bulk, white pepper wholesale price, ground white pepper or white pepper ground",
+        "ingredients": "Ground white pepper",
+        "flavor": "Earthy and musty with clean, peppery heat",
+        "uses": "Beef, pork, chicken, fish, vegetables, cream sauces, soups",
+        "cuisine": "Global",
+        "origin": "Vietnam, India",
+        "reviews": [
+            {
+                "name": "Christopher E.",
+                "date": "12/27/2022",
+                "rating": "5",
+                "content": "This product is absolutely the freshest I've ever purchased. I use it in my rubs and spice blends and you can surely taste the difference. It's what separates mine from the competition. Make this your secret ingredient!"
+            },
+            {
+                "name": "Patty S.",
+                "date": "08/16/2021",
+                "rating": "5",
+                "content": "Needed for recipes"
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p08",
+        "name": "Long Pepper",
+        "price": "10.97",
+        "net": "1",
+        "image": {
+            "i1": "images/products/p08_01.png",
+            "i2": "images/products/p08_02.png",
+            "i3": "images/products/p08_03.png",
+            "i4": "images/products/p08_04.png",
+            "i5": "images/products/p08_05.png"
+        },
+        "short": "Long Pepper, Piper longum, is a close relative of standard black pepper. It is also known as Indian long pepper, pippali, or pipli.",
+        "description":"Long Pepper, Piper longum, is a close relative of standard black pepper. It is also known as Indian long pepper, pippali, or pipli. Long Pepper looks like a cone, but one cone consists of tiny berries that have merged together. Each cone is about 1.5 inches long and slightly tapered. Like a standard peppercorn, you can put them whole into liquid to create an infusion. Or grind them up as you would any other black pepper in a spice grinder or a mortar and pestle. Long Pepper is frequently sought after by: independent spice stores; seasoning companies; Indian and American restaurants; and food trucks Please feel free to visit our pepper and peppercorn page to see our full selection of pepper.",
+        "howto": "Long Pepper can be used anywhere you would use black pepper. It has significant staying power so it can be added at the beginning of a dish and will mellow during cooking time. If you’re interested in getting the most punchy flavor out of Long Pepper, add it to a dish right at the end of cooking time. To protect the flavor, grind right before using. Long Peppers are native to India and Indonesia, so they are excellent in curries, stews, and pickles. Grind and use when grilling steaks, beef or veggie burgers, and vegetables. It is excellent when brewed into beer or infused into gin or vodka. Their complex flavor allows them to pair beautifully with anise seed, cardamom, coriander, juniper, and rosemary. They are also delicious with sweet fruits, like strawberries, mangoes, and blackberries.",
+        "altname": "Indian long pepper, pippali, or pipli",
+        "ingredients": "Whole long pepper cones",
+        "flavor": "Complex pepper heat, hints of sweetness, earthiness, and ginger",
+        "uses": "Use anywhere you would use regular black pepper",
+        "cuisine": "Global",
+        "origin": "Indonesia",
+        "reviews": [
+            {
+                "name": "Kevin G.",
+                "date": "02/11/2021",
+                "rating": "5",
+                "content": "I have used Long Pepper for quite a while and when I buy it from Spices Inc. it's always fresh and fair priced."
+            },
+            {
+                "name": "William B.",
+                "date": "09/17/2019",
+                "rating": "5",
+                "content": "I tried this spice on a lark and now it has replaced black pepper in my kitchen. It is wonderful."
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p09",
+        "name": "Pink Peppercorns",
+        "price": "8.98",
+        "net": "1.3",
+        "image": {
+            "i1": "images/products/p09_01.png",
+            "i2": "images/products/p09_02.png",
+            "i3": "images/products/p09_03.png",
+            "i4": "images/products/p09_04.png",
+            "i5": "images/products/p09_05.png"
+        },
+        "short": "Pink Peppercorns, Schinus terebinthifolius, also called red peppercorn, pink pepper, red pepper berries, rose pepper, rose-poivre, or bulk pink peppercorns.",
+        "description":"Pink Peppercorns, Schinus terebinthifolius, also called red peppercorn, pink pepper, red pepper berries, rose pepper, rose-poivre, or bulk pink peppercorns. Pink peppercorns are not actually related to green, black, or white peppercorns, but get their name from the similarities in look and their peppery flavor. Instead, they are related to the cashew family. Pink Peppercorns are prized for their spectacular pinkish-red color and the burst of peppery flavor that they add to almost any dish. Businesses who frequently purchase Pink Peppercorns are: American restaurants; cafes; butchers; brew pubs; breweries; coffee shops; independent spice shops; seasoning ompanies; catering companies; and companies that manufacture sauces, chocolates, jams and condiments Please visit our peppers and peppercorns page to view our full selection of pepper products.",
+        "howto": "Pink Peppercorns are ideal for accentuating dairy and cream-style dishes. Try stirring ground Pink Peppercorns into Blueberry and Lavender Ice Cream, or tossing them over Goat Cheese with Honey Habanero Marmalade for savory contrast. Blend some into the seasoned butter when making Honey Balsamic Pork Chops. Add to the marinade when making a rich, flavorful dish like Sichuan Cornish Hens.  They are delicious when ground together with sea salt, so try it on the rim of a margarita, or muddle the peppercorns into gin and enjoy a Pink Peppercorn Gimlet. Pink Peppercorns are good with bacon, beef, bergamot, butter, chicken, citrus fruits, cream, garlic, onions, lemongrass, pineapple, pomegranate, strawberries, and fish. Pair Pink Peppercorns with spices and herbs like basil, cardamom, dried rosebuds, cinnamon, cloves, ginger, juniper berries, lavender, mint, rosemary, saffron, and vanilla.",
+        "altname": "Red peppercorn, pink pepper, red pepper berries, rose pepper, rose-poivre, or bulk pink peppercorns",
+        "ingredients": "Whole pink peppercorns",
+        "flavor": "Spicy, sweet, citrus undertones",
+        "uses": "Fish, chicken, dairy products, cocktails and infusions",
+        "cuisine": "South American, American",
+        "origin": "Brazil",
+        "reviews": [
+            {
+                "name": "Maria L.",
+                "date": "07/21/2021",
+                "rating": "5",
+                "content": "Very nice product.!"
+            },
+            {
+                "name": "Donna S.",
+                "date": "02/24/2019",
+                "rating": "5",
+                "content": "They arrived in record time. Thanks! Great service! and your recipes are fantastic."
+            }
+        ],
+        "category": "peppers, peppercorns"
+    },
+    {
+        "id": "p10",
+        "name": "Sichuan Peppercorns",
+        "price": "14.98",
+        "net": "1.6",
+        "image": {
+            "i1": "images/products/p10_01.png",
+            "i2": "images/products/p10_02.png",
+            "i3": "images/products/p10_03.png",
+            "i4": "images/products/p10_04.png",
+            "i5": "images/products/p10_05.png"
+        },
+        "short": "Sichuan Peppercorns, Zanthoxylum bungeanum, are also called Sichuan peppercorn, Chinese peppercorns, sandy peppercorn, Szechuan pepper, or Szechuan chili pepper.",
+        "description":"Sichuan Peppercorns, Zanthoxylum bungeanum, are also called Sichuan peppercorn, Chinese peppercorns, sandy peppercorn, Szechuan pepper, or Szechuan chili pepper. They have a volatile oil content of 4%-7%. Despite the name, Sichuan Peppercorns are not peppercorns at all. They are the outer pod from the fruit of the prickly ash bush, a plant indigenous to China. The active ingredient, sanshool, excites the taste receptors on the tongue so much that we perceive their excited state as numbness. In Chinese this is called mas; numbing mas allows diners to eat spicier food and benefit from las, the sweat-inducing properties of hot chile peppers. The cooling effect of sweating through hot food in Sichuan’s humid environment is called maslas, and is a hallmark of Sichuan cuisine. Sichuan Peppercorns are popular with: chicken food trucks; brewpubs; cafes; pizza shops; Asian and steak house restaurants; independent spice shops; seasoning companies; breweries; sauce and pasta manufacturers; catering companies; and butchers We also carry Ground Sichuan Peppercorns.",
+        "howto": "Sichuan Peppercorns assert themselves in strong dishes, adding a surprising twist to black bean chili and Sichuan Pepper and Beef Stir Fry. Add them into roasted lamb or a rustic Lapsang Souchang Duck Breast. Use Sichuan Peppercorns with ginger to make a spicy broth for dumpling soup, or pair with tofu for a traditional Sichuan dish mapo. Make Sichuan Red Chili Oil to drizzle on top of your food, or Sichuan Hot Sauce as a kick to boring dishes. The delicate citrus side of Sichuan Peppercorns can be highlighted, too, by mixing into vanilla ice cream. It also adds a surprising lift to peach cobbler or tarte tatin. Sichuan Peppercorns are a great addition to seafood, chicken, beef, pork, duck, tofu, and rice dishes. Use in stir-fry, soups, with grilled meats, or with beans and noodles. Sichuan Peppercorns pair well with hot chiles, onions, garlic, ginger, plum, soy sauce, tangerines, lemons, turmeric, sesame seeds, and vinegar.",
+        "altname": "Sichuan peppercorn, Chinese peppercorns, sandy peppercorn, Szechuan pepper, or Szechuan chili pepper",
+        "ingredients": "Whole Sichuan peppercorns",
+        "flavor": "Bitter, warm, numbing, fading to earthy, lemony undertones",
+        "uses": "Stir fry, chili, duck, lamb, hot sauces, chili oils, desserts",
+        "cuisine": "Asian, Chinese, American",
+        "origin": "China",
+        "reviews": [
+            {
+                "name": "Edward G.",
+                "date": "08/18/2021",
+                "rating": "5",
+                "content": "A nice earthy flavor with a slight bit of 'twang' to it. Put it in your best grinder to have handy by the stove to add a little zip to a dish, we especially like it on top of scrambled eggs and fried potatoes. Starts the morning off right."
+            },
+            {
+                "name": "Gus R.",
+                "date": "08/15/2021",
+                "rating": "5",
+                "content": "These babies add heat. I added them to a homemade chili crisp recipe and boy did it pack some punch"
+            }
+        ],
+        "category": "peppers, peppercorns"
+    }
+]

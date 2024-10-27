@@ -1,0 +1,32 @@
+[
+    {
+        "name": "All Categories",
+        "link": "",
+        "img": "/images/cat0.jpg"
+    },
+    {
+        "name": "Spices",
+        "link": "/spices",
+        "img": "/images/cat1.jpg"
+    },
+    {
+        "name": "Spice Blends",
+        "link": "/mixes",
+        "img": "/images/cat2.jpg"
+    },
+    {
+        "name": "Chilies",
+        "link": "/chilies",
+        "img": "/images/cat3.jpg"
+    },
+    {
+        "name": "Peppers",
+        "link": "/peppers",
+        "img": "/images/cat4.jpg"
+    },
+    {
+        "name": "Culinary Herbs",
+        "link": "/herbs",
+        "img": "/images/cat5.jpg"
+    }
+]

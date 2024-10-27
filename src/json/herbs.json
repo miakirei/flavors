@@ -1,0 +1,372 @@
+[
+    {
+        "id": "h01",
+        "name": "Cracked Rosemary",
+        "price": "5.98",
+        "net": "1.3",
+        "image": {
+            "i1": "images/products/h01_01.png",
+            "i2": "images/products/h01_02.png",
+            "i3": "images/products/h01_03.png",
+            "i4": "images/products/h01_04.png",
+            "i5": "images/products/h01_05.png"
+        },
+        "short": "Cracked Rosemary, Rosmarinus officinalis, is whole rosemary that has been cracked to break the hard needles and make them easier to use.",
+        "description": "Cracked Rosemary, Rosmarinus officinalis, is whole rosemary that has been cracked to break the hard needles and make them easier to use. It has an essential oil content between .5% and 2.5%. Cracked Rosemary is also called cracked rosemary leaves, dried rosemary leaves, dried rosemary, or bulk rosemary. Rosemary has been long known throughout history. Used in medicinal treatments since 500 BCE, it was believed to be a cure for jaundice, migraines, inflammation, and other ailments in Greece and Rome. During the Middle Ages, rosemary was thought to have the power to ward off thieves, infidelity, nightmares, and even boost memory. HOL Cracked Rosemary is popular with seasoning companies, American restaurants, brewpubs, delis, food trucks, spice and olive oil shops, and manufacturers of bloody mary mix, sauces, and specialty sodas. We also offer Ground Rosemary and Organic Cracked Rosemary. 1/4 teaspoon dried rosemary = 1 teaspoon of fresh rosemary.",
+        "howto": "Rosemary doesn't lose any of its potent flavor or aroma during cooking, so it can be added early in the process. Crush or mince the Cracked Rosemary before sprinkling over or rubbing into foods. Cracked Rosemary can perk up Honey Mustard Potato Salad. Stir this into Greek Lemon Chicken or to boost the seasoning in Italian Wedding Soup. Toss it in this tender Sweet Apple Chicken Sausage and Roasted Vegetables for the very best flavors of fall, or use it in this Garlic and Herb Mushrooms as a side for steak or pork. Its flavor works well with almost all kinds of meat and pairs deliciously with potatoes, olive oil, lemon, cinnamon, clove, garlic, tomato, cream-based sauces, and most grilled vegetables.",
+        "altname": "Cracked rosemary, dried rosemary leaves, dried rosemary, or bulk rosemary",
+        "ingredients": "Cracked rosemary",
+        "flavor": "Cooling, woody, and piney with a tea-like aroma",
+        "uses": "Meats, breads, cream cheese, cream sauces, herb vinaigrettes, marinades, sauces, salad dressings, soups, and stews",
+        "cuisine": "Mediterranean, Mexican, American",
+        "origin": "Morocco",
+        "reviews": [
+            {
+                "name": "Andrea S.",
+                "date": "03/07/2022",
+                "rating": "5",
+                "content": "Very happy! While I have fresh outside and can grab some any time, having dried is always a must also. I love all my spices and blends Iâ€™ve purchased from Spices Inc. Iâ€™m now buying for 4 homes for friends and family. All very happy!"
+            },
+            {
+                "name": "Sean T.",
+                "date": "04/19/2021",
+                "rating": "5",
+                "content": "Love it!"
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h02",
+        "name": "Culinary Lavender",
+        "price": "9.48",
+        "net": "0.8",
+        "image": {
+            "i1": "images/products/h02_01.png",
+            "i2": "images/products/h02_02.png",
+            "i3": "images/products/h02_03.png",
+            "i4": "images/products/h02_04.png",
+            "i5": "images/products/h02_05.png"
+        },
+        "short": "Culinary Lavender, Lavendula augustifolia, is also called culinary grade lavender, food grade lavender, edible lavender, or lavender spice.",
+        "description": "Culinary Lavender, Lavendula augustifolia, is also called culinary grade lavender, food grade lavender, edible lavender, or lavender spice. Culinary Lavender originated along the Mediterranean, and is a plant that prefers wet winters and dry summers. It grows easily in these conditions and can be found in many places of the world, through the Middle East to India, and even into southern Europe. Culinary Lavender is popular with: independent spice shops; manufacturers of chocolates, cocktail mixes, jams, honey, sauces, and condiments; American restaurants; brewpubs; sandwich shops; breweries; and distilleries Make sure you are cooking with a culinary-grade lavender. Lavender that is intended for crafting and other non-culinary use typically contains high levels of toxic pesticides.",
+        "howto": "Grind some Culinary Lavender into sugar to make a finely powdered lavender sugar. Put this in sweets, icings, tea, or even in a savory grilling rub for chicken or lamb. Culinary Lavender is especially good with black and red fruits such as blackberries, blueberries, cherries, plums, and strawberries. Try Blueberry Lavender Ice Cream or Lavender Cream Horns for dessert at your next dinner party. For a robust flavor to savory dishes, add to roasted meats like chicken, lamb, pheasant, and rabbit. Lavender can easily overwhelm a dish, so use it gently, and don’t let it cook for an extended period or it can turn bitter. Culinary Lavender pairs well with marjoram, Mediterranean oregano, parsley, rosemary, savory, thyme, basil, clove, chocolate, cinnamon, saffron, shallots, chives, fennel, star anise, rose, mint, coconut, and citrus.",
+        "altname": "Culinary grade lavender, food grade lavender, edible lavender, or lavender spice",
+        "ingredients": "Dried lavender buds",
+        "flavor": "Intensely floral; rosemary, pepper, mint, and lemon notes",
+        "uses": "Grilled meats, vegetables, desserts, ice cream, syrup, liqueur, preserves, tea, beverages, vinaigrettes, marinades",
+        "cuisine": "Global",
+        "origin": "Canada",
+        "reviews": [
+            {
+                "name": "Sue S.",
+                "date": "02/25/2024",
+                "rating": "5",
+                "content": "Works great with infusing our honey."
+            },
+            {
+                "name": "Tracy W.",
+                "date": "02/19/2021",
+                "rating": "5",
+                "content": "Purchased to be used in a home brew. The lavender seems great, unfortunately I haven't had a chance to use it yet."
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h03",
+        "name": "Dill Weed",
+        "price": "6.98",
+        "net": "1.4",
+        "image": {
+            "i1": "images/products/h03_01.png",
+            "i2": "images/products/h03_02.png",
+            "i3": "images/products/h03_03.png",
+            "i4": "images/products/h03_04.png",
+            "i5": "images/products/h03_05.png"
+        },
+        "short": "Dill Weed, Anethum graveolens, is also called bulk dill weed, dried dill weed, dried dill, bulk dill, dill herb or dilly weed.",
+        "description": "Dill Weed, Anethum graveolens, is also called bulk dill weed, dried dill weed, dried dill, bulk dill, dill herb or dilly weed. It is comprised of the feathery green leaves of the dill plant. The leaves contain an average of .5% volatile oil by weight. This plant is one of the few plants that produces both an herb and a spice. The leaves are harvested as an herb. The seeds are a spice known as Dill Seed. While they come from the same plant, Dill Weed and Dill Seed are not interchangeable. Dill Weed has a light and airy essence, while the seed is peppery, with a bitter edge. We also have Dill Seed available for purchase. Dill Weed is popular with pizza restaurants; delis and cafes; food trucks; breweries; independent spice shops; olive oil shops; distilleries; seasoning companies; and companies who manufacturer food products like meal mixes, dip mixes, cheese and cheese spreads, bloody mary mixes, jerky, salads, and seafood.",
+        "howto": "Dill Weed is often thought of as the first ingredient in Homemade Pickles. It is a standard ingredient in the Greek yogurt dip, Tzatziki Sauce, which then goes great over dishes like Greek Tacos. Dill is delicious with lighter meats, so add some to Herb-Crusted Tilapia or your favorite mild white fish, and serve that with some Fresh Dill Mayonnaise on the side. It’s also terrific on chicken, so make some Grilled Chicken, Potato, and Asparagus Salad. Or make a chewy, airy Focaccia Bread with both dill weed and dill seed for the full range of dill flavor.  Dill Weed should be added at the end of cooking time to prevent flavor loss. Dill Weed is outstanding with breads, fish, dips, gravies, sauces and in salads (especially coleslaw, macaroni and potato), salad dressings, chicken, egg and meat dishes.  This herb also pairs exceptionally well with chunky vegetables like beets, eans, carrots and fennel as well as delicate leafy greens. Dill Weed partners well with basil, garlic, horseradish, mustard, paprika and parsley.",
+        "altname": "Bulk dill weed, dried dill weed, dried dill, bulk dill, dill herb or dilly weed",
+        "ingredients": "Dried dill leaves",
+        "flavor": "Grassy and airy with notes of licorice and citrus",
+        "uses": "Dairy-based sauces, with mild white meats, in bread, over cheese",
+        "cuisine": "Mediterranean, German, Middle Eastern, American",
+        "origin": "England or Egypt",
+        "reviews": [
+            {
+                "name": "Marianna B.",
+                "date": "01/17/2023",
+                "rating": "5",
+                "content": "The Dill weed is amazing!! It smells so delightful and it's so fresh!"
+            },
+            {
+                "name": "Karl D.",
+                "date": "11/29/2021",
+                "rating": "5",
+                "content": "There's no way you can make potato salad or macaroni salad without dillweed. Getting good dillweed from the grocery store is almost impossible. Most of it has been picked a long time ago and has set in warehouse for many months. This is the freshest do we have ever had so far and it is excellent in flavor."
+            }
+        ],
+        "category": "culinary herbs, best"
+    },
+    {
+        "id": "h04",
+        "name": "Dried Basil",
+        "price": "5.49",
+        "net": "0.9",
+        "image": {
+            "i1": "images/products/h04_01.png",
+            "i2": "images/products/h04_02.png",
+            "i3": "images/products/h04_03.png",
+            "i4": "images/products/h04_04.png",
+            "i5": "images/products/h04_05.png"
+        },
+        "short": "Dried Basil, Ocimum basilicum, is an extremely aromatic member of the Lamiaceae, or mint, family.",
+        "description": "Dried Basil, Ocimum basilicum, is an extremely aromatic member of the Lamiaceae, or mint, family. It is closely related to mint, rosemary, thyme, oregano, sage, and marjoram. Our bulk Dried Basil is also referred to as dried basil, dried basil leaves, dried sweet basil. This herb has been popularly enjoyed for millennia; cultures that rose along the Mediterranean have used it since at least 2600 BC, in food and in religious ceremonies. Dried Basil has .5% to 1.1% essential oil, composed primarily of linalool (40%) and methyl chavicol (25%). The strong clove scent of sweet basil is derived from eugenol, the same chemical found in cloves. This explains the sharp, peppery edge that can be present in this otherwise soft and gentle herb. Basil is commonly sought after by seasoning companies; Mediterranean, Greek, and Italian restaurants; independent spice shops; olive oil shops; and food manufacturer and production facilities.",
+        "howto": "You can use Dried Basil to add lightness to dishes like Beef and Zucchini Parmigiana and Kalamata Olive Pizza. Blend it into the sauce for hearty Creole Sausage and Peppers. It has an affinity for vegetables, so add it to Tomato, Spinach, and Quinoa Bake and Garlic and Herb Mushrooms. This is a natural addition to Mediterranean-inspired dishes; it’s terrific in Grilled Vegetable Pasta and light and satisfying Grilled Mediterranean Salmon. Enjoy bulk Basil’s sweet and savory qualities in a bright, refreshing Sweet Cantaloupe Salsa. Garnish Asian Chicken Lettuce Rolls and Spicy Thai Coconut Soup with Dried Basil. Even the best Dried Basil’s flavor tends to dissipate when exposed to prolonged heat, so add at the end of cooking times for the greatest impact. This herb pairs well with tomatoes, garlic, nuts, olive oil, olives, ginger, capers, cheeses, coriander, galangal, lemongrass, and both white and black pepper. ",
+        "altname": "Dried basil, dried basil leaves, dried sweet basil",
+        "ingredients": "Basil leaf",
+        "flavor": "Aromatic herb with pepper, anise, and mint aspects",
+        "uses": "Pair with tomatoes, garlic, meats, and fruit",
+        "cuisine": "Mediterranean, Asian, Thai",
+        "origin": "Egypt",
+        "reviews": [
+            {
+                "name": "Francine W.",
+                "date": "04/30/2022",
+                "rating": "5",
+                "content": "All 3! So much better than box store brands. Because of how 'real' the spice is, I don't need as much in my recipes and my purchase lasts longer Thanks very much."
+            },
+            {
+                "name": "Cordelia M.",
+                "date": "01/30/2022",
+                "rating": "5",
+                "content": "Fresh and tasty."
+            }
+        ],
+        "category": "culinary herbs, best"
+    },
+    {
+        "id": "h05",
+        "name": "Dried Chives",
+        "price": "5.98",
+        "net": "0.4",
+        "image": {
+            "i1": "images/products/h05_01.png",
+            "i2": "images/products/h05_02.png",
+            "i3": "images/products/h05_03.png",
+            "i4": "images/products/h05_04.png",
+            "i5": "images/products/h05_05.png"
+        },
+        "short": "Dried Chives, Allium schoenoprasum, are also called dry chives, chives dried, bulk chives or air-dried chives.",
+        "description": "Dried Chives, Allium schoenoprasum, are also called dry chives, chives dried, bulk chives or air-dried chives. Chives provide an easy and colorful way to add a light onion touch to a large variety of dishes. These chives are dried and chopped into rings approximately 3mm big. Chives are a member of the onion family. They may be used as a substitute in any recipe that calls for chopped green onions and deliver a milder flavor than standard onions. Dried Chives are popular with American, bagel, and breakfast restaurants; brewpub; manufacturers of sauces, breads, flours, grains, gourmets nuts, and vegan cheese; independent spice shops; seasoning companies; and olive oil shops. Chives are a very lightweight herb. There are approximately 19 cups of chives per pound; please take this into consideration when ordering. Please visit our onion page to view our entire selection of dehydrated onion products. ",
+        "howto": "Dried Chives are an easy and colorful way to add a light onion touch to a large variety of dishes. Herb Crusted Tilapia uses Dried Chives in a rub for fish. Dried Chives blend seamlessly with creamy dishes, so stir into goat cheese in Shiitake Mushroom and Goat Cheese Pizza. Dried Chives give sweetness to the gravy inSweet Potato Poutine. Try them over cold salads, like Honey Mustard Potato Salad, or use to garnish dishes like Garlic and Herb Roasted Tomato Pasta. Because they are so thin and delicate, they should only be added at the end of cooking. Add Dried Chives to avocados, sour cream, cheese, cottage cheese, stir fries, egg or potato dishes, vinegars, salads, cream cheese, herb butters, cream and tomato sauces, and soups. Dried Chives pair well with lemon, basil, chervil, sesame, garlic, soy sauce, ginger, chile peppers, cilantro, fennel, paprika, parsley, and tarragon.",
+        "altname": "Dry chives, chives dried, bulk chives or air-dried chives.",
+        "ingredients": "Chopped dehydrated chives",
+        "flavor": "Sweet, gentle, mild onion",
+        "uses": "Breadings for chicken or fish, cream soups and sauces, cheese, oil, vinegars, vegetables, avocado, potatoes, cold salads, stir fries, garnishes",
+        "cuisine": "Global",
+        "origin": "China",
+        "reviews": [
+            {
+                "name": "Bryan R.",
+                "date": "10/01/2021",
+                "rating": "5",
+                "content": "As always, great quality and great flavor!"
+            },
+            {
+                "name": "Twylla B.",
+                "date": "08/18/2021",
+                "rating": "5",
+                "content": "This last batch i loved because the pieces were already small. The last 2 orders they were on the bigger side, and I needed to make them smaller."
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h06",
+        "name": "Dried Cilantro",
+        "price": "6.48",
+        "net": "0.8",
+        "image": {
+            "i1": "images/products/h06_01.png",
+            "i2": "images/products/h06_02.png",
+            "i3": "images/products/h06_03.png",
+            "i4": "images/products/h06_04.png",
+            "i5": "images/products/h06_05.png"
+        },
+        "short": "Dried Cilantro, Coriandrum sativum, is also called dehydrated cilantro or dry cilantro. It is has an essential oil content between .1% and .2%",
+        "description": "Dried Cilantro, Coriandrum sativum, is also called dehydrated cilantro or dry cilantro. It is has an essential oil content between .1% and .2%. Dried Cilantro is derived from the leaves of the coriander plant, an annual that reaches a height of 12-36 inches. It is one of the few plants that produces both an herb and a spice. Cilantro, the herb, is harvested from the leaves and coriander, the spice, comes from the seeds. We also carry whole Coriander Seeds and Ground Coriander. Dried Cilantro is popular with seasoning companies; American, bagel, breakfast, and pizza restaurants; sauce, kettle corn, popcorn, gourmet condiment, and supplement manufacturers; and independent spice shops.",
+        "howto": "Dried Cilantro is often sprinkled on the top of cooked dishes, curries, sauces, soups and stews. Create a bright, fresh dressing like this Pineapple Cilantro Dressing or add it into a warm Salsa Soup. We like Dried Cilantro best in Mexican dishes; add it to bean dips, salsas, soups, or mix it in with sour cream or Greek yogurt and use it as a topping for burritos, chili, enchiladas, or tacos. It makes a delicious Roasted Salsa Verde or Harissa Couscous. Dried Cilantro complements beans and legumes, chile peppers, bell peppers, onion, lime, lemon, pineapple, apple, corn, rice, tomato, nuts, ginger, cinnamon, garlic, cumin, chicken, seafood, and yogurt.",
+        "altname": "Dehydrated cilantro or dry cilantro",
+        "ingredients": "Dried cilantro leaves",
+        "flavor": "Anise-like, piney flavor with hints of lemon, mint and pepper",
+        "uses": "Beans, curries, sauces, salsas, soups, stews, rice",
+        "cuisine": "Global",
+        "origin": "Egypt",
+        "reviews": [
+            {
+                "name": "Jean H.",
+                "date": "06/17/2020",
+                "rating": "5",
+                "content": "I love cilantro and this is a great price. Tased great and looked fresh and green"
+            },
+            {
+                "name": "Judy B.",
+                "date": "06/07/2020",
+                "rating": "5",
+                "content": "Fresh and definitely makes recipes taste great."
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h07",
+        "name": "Dried Mint",
+        "price": "4.5",
+        "net": "1",
+        "image": {
+            "i1": "images/products/h07_01.png",
+            "i2": "images/products/h07_02.png",
+            "i3": "images/products/h07_03.png",
+            "i4": "images/products/h07_04.png",
+            "i5": "images/products/h07_05.png"
+        },
+        "short": "Dried Mint, Mentha spicata, is also called dried spearmint leaves, dried mint leaves, or dry spearmint. Dried Mint has an essential oil content of .5%.",
+        "description": "Dried Mint, Mentha spicata, is also called dried spearmint leaves, dried mint leaves, or dry spearmint. Dried Mint has an essential oil content of .5%. In the aftermath of the Boston Tea Party (1773 AD), it became unpatriotic in Colonial America to drink tea so the use of herbs became a substitute to highly taxed British imported tea. Spearmint leaves were one of the more frequently used herbs for this, making it an important cash crop in Connecticut. It is popular with Middle Eastern, Mediterranean, and Greek restaurants, coffee, tea, sauce, and pickle manufacturers, breweries, spice and olive oil shops, and distillers.",
+        "howto": "Dried Mint is best used to compliment bold flavors such as rubs that are heavy on chiles and pepper, or hearty root vegetables. It is probably best known as a key ingredient in Middle Eastern Tabouli, and the street food dish, Falafel. Stir into yogurt sauces like Tzatziki Sauce. Dried Mint adds a delightful zest to lentils, salad, cooked vegetables, noodle and bean soups or a hearty vegetable stew. Use as a finishing herb when making Creamy Lentil Stew with Mushrooms and Kale. Dried Mint is excellent in savory casseroles like traditional Turkish Imam Bayildi. Add more flavor to traditional rice by stirring Dried Mint to Lemon Rice. Adding Dried Mint at the end of cooking is a better way to enhance mint’s nuances. Dried Mint pairs well with coconut, green chiles, onions, amchur, cardamom, shallots, basil, cilantro, lemongrass, and lime, and is regularly used in chutneys, salads, beverages, curries, soup, salad, spring rolls, stir-fries and dips.",
+        "altname": "Dried spearmint leaves, dried mint leaves, or dry spearmint",
+        "ingredients": "Dried spearmint leaves",
+        "flavor": "Refreshingly sweet, with a peppery burst and lemony undertones",
+        "uses": "Airtight container in a cool, dark place",
+        "cuisine": "Global",
+        "origin": "Egypt",
+        "reviews": [
+            {
+                "name": "Nathelle G.",
+                "date": "03/02/2023",
+                "rating": "5",
+                "content": "The fragrance is lovely and combined with chamomile buds it makes a great calming tea. Thanks for your quick response in shipping."
+            },
+            {
+                "name": "Eileen J.",
+                "date": "04/17/2022",
+                "rating": "5",
+                "content": "Mist seems to be a hard item to find around here, so getting this has been a Godsend. We use it for drinks, wonderful flavor, hot we use it for opening up our breathing and it smells great. We did not get it as a sample but ordered what we call a large amount. We like to rely on natural means for healing, with COPD, allergies, etc. this is great. We put some in a coffee filter, staple it and put it under our pillow, helps at night."
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h08",
+        "name": "Dried Parsley",
+        "price": "5.98",
+        "net": "0.5",
+        "image": {
+            "i1": "images/products/h08_01.png",
+            "i2": "images/products/h08_02.png",
+            "i3": "images/products/h08_03.png",
+            "i4": "images/products/h08_04.png",
+            "i5": "images/products/h08_05.png"
+        },
+        "short": "Dried Parsley, Petroselinum crispum, is a bright, refreshing herb.",
+        "description": "Dried Parsley, Petroselinum crispum, is a bright, refreshing herb. It is a member of the Apiaceae or Umbelliferae family of plants, which includes herbs and spices like dill, chervil, anise, fennel, cumin, caraway, coriander, and even the pungent resin, asafoetida. Parsley is also referred to as parsley flakes, dry parsley, dried parsley leaves, and parsley spice. Our Dried Parsley is made from curly parsley, which typically contains between .06% and .1% essential oil in its leaves, which concentrates as the leaves dry. It is bright green and somewhat flaky. Bulk dried parsley is often purchased by seasoning companies, oil and spice shops, and food manufacturers that specialize in products like gourmet jams, gourmet condiments, jerky, pickling, and even dog food. It’s also popular with Italian restaurants food trucks, delicatessens, and restaurants with a predominantly salad-based menu. Parsley is voluminous; there are approximately 14.5 cups of dried parsley per pound. Order accordingly. We also offer Ground Parsley and Organic Parsley.",
+        "howto": "Dried Parsley adds a terrific herbal lift to ground meats, so roll into Glazed Meatballs, a Grilled Turkey Burger, or the lamb-and-beef combo of a Kofte Kebab. It adds brightness to vegetarian dishes like Falafel and Savory Stuffed Mushrooms. It’s great on delicate flavors, like a mild white fish in Lemon Parmesan Fish And Asparagus. It’s also a welcome way to cut through heavier flavors, so use it when you make a gravy-rich Pennsylvania Dutch Chicken Pot Pie. Toss over dishes like Grilled Vegetable Pasta as a garnish, or over any vegetables that you want. It’s great on your favorite homemade pizza. You can cover Dried Parsley with olive oil and let it infuse to make parsley oil for vinaigrettes or as a finisher for soups. Mix with garlic, lemon, and mayonnaise for an herb aioli. ",
+        "altname": "Parsley flakes, dry parsley, dried parsley leaves, parsley spice",
+        "ingredients": "Dried parsley",
+        "flavor": "Bright, minerally, and grassy, with notes of hay and pepper",
+        "uses": "Use with ground meats, in gravies, as a garnish",
+        "cuisine": "Global",
+        "origin": "England and Egypt",
+        "reviews": [
+            {
+                "name": "Pamela M.",
+                "date": "09/27/2023",
+                "rating": "5",
+                "content": "The texture is just the right size. The flavor is so fresh. The best dried parsley I have ever had."
+            },
+            {
+                "name": "Nancy K.",
+                "date": "02/03/2023",
+                "rating": "5",
+                "content": "Love all of Spices Inc.'s spices. Always arrives quickly and with great packaging."
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h09",
+        "name": "File Powder",
+        "price": "11.98",
+        "net": "2.2",
+        "image": {
+            "i1": "images/products/h09_01.png",
+            "i2": "images/products/h09_02.png",
+            "i3": "images/products/h09_03.png",
+            "i4": "images/products/h09_04.png",
+            "i5": "images/products/h09_05.png"
+        },
+        "short": "File Powder is also known as gumbo file or ground sassafras leaves. ",
+        "description": "File Powder is also known as gumbo file or ground sassafras leaves. Pronounced “FEE-lay,” our File Powder is an herbal thickening agent made primarily from ground sassafras leaves. Sassafras leaves have an essential oil content of about 2% to 3% and exude a natural mucilage, the thickener that gives the powder its name. File Powder is a blend of ground sassafras powder, ground oregano, and ground thyme. It is popular with seasoning companies; independent spice shops; brewpubs; seafood restaurants; breweries; and manufacturers of sausages and kettlecorn or popcorn. ",
+        "howto": "File Powder should be used sparingly as it is very potent. If you add too much, cook it for too long, or cook it at too high a heat, your dish will likely turn stringy and gummy. It is most commonly used to thicken gumbos, like this hearty Chicken and Sausage Gumbo. File Powder can also be used to season shrimp and grits, and stews like crawfish etouffee. It can be a recipe rescue if you have a chowder that’s too milky or need to add that extra heft to vegetable gravy. Use it as a thickener instead of roux, but be prepared for the final product to reflect the flavor of the changed ingredients.",
+        "altname": "Gumbo file or ground sassafras leaves",
+        "ingredients": "Ground sassafras powder, ground oregano, and ground thyme",
+        "flavor": "Peppery depth, herbal lemon flavor, bitter notes reminiscent of root beer",
+        "uses": "Gumbos, stews, chowders, grits, gravies",
+        "cuisine": "American, Cajun, Creole",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Gretchen",
+                "date": "04/06/2017",
+                "rating": "5",
+                "content": "I ordered a 5# bag at first to check the quality and I was more then impressed with the quality and price. I am very comfortable buying much larger quantities in the future. Thank you!!!"
+            },
+            {
+                "name": "Nicole",
+                "date": "03/22/2011",
+                "rating": "5",
+                "content": "File Powder"
+            }
+        ],
+        "category": "culinary herbs"
+    },
+    {
+        "id": "h10",
+        "name": "French Tarragon",
+        "price": "7.77",
+        "net": "1",
+        "image": {
+            "i1": "images/products/h10_01.png",
+            "i2": "images/products/h10_02.png",
+            "i3": "images/products/h10_03.png",
+            "i4": "images/products/h10_04.png",
+            "i5": "images/products/h10_05.png"
+        },
+        "short": "French Tarragon,Artemisia dracunculus, is an aromatic, leafy green herb often associated with French cooking.",
+        "description": "French Tarragon,Artemisia dracunculus, is an aromatic, leafy green herb often associated with French cooking. It is also known as dried tarragon, tarragon leaves, dry tarragon, tarragon spice, and dried tarragon leaves. Tarragon is a very light herb. There are 18 cups in each pound and we sell by weight; please order accordingly. French Tarragon is popular with American and seafood restaurants; country clubs; cafes; sauce, seafood, and condiment manufacturers; independent spice shops; seasoning companies; and caterers.",
+        "howto": "Tarragon's herbaceousness is often paired with lighter foods like chicken or seafood. It is an important ingredient in béarnaise sauce. MakeHoney Mustard Potato Salad and add tarragon and grainy, tarragon-scentedGerman Style Mustard. Spread on top of Brie or Camembert and drizzle with olive oil for a chic appetizer or tryMushroom Risotto right before serving to add an herbaceous lift. Toss over the top of or Grilled Lamb Kabobs for an unforgettable garnish. Steep French Tarragon in vodka to boost your cocktail game. French Tarragon has a delicate flavor and pairs well with fish, chicken, and eggs. It’s often found in sauces and salad dressings, but it can stand up in mustards, with vegetables, rice dishes, compound butter, and as a garnish for pastas and kebabs. French Tarragon pairs well with vinegar, lemon, orange, parsley, chives, marjoram, mustard, capers, lavender, basil, chervil, thyme, and rosemary.",
+        "altname": "Dried tarragon, tarragon leaves, dry tarragon, tarragon spice, dried tarragon leaves",
+        "ingredients": "Dried French tarragon leaves",
+        "flavor": "Warm, sweet, licorice and mint, notes of vanilla and pepper",
+        "uses": "Dressings, salads, mustards, kebabs, garnish, alcohol infusions, lighter meats and seafood",
+        "cuisine": "French, Mediterranean, Italian, American",
+        "origin": "France",
+        "reviews": [
+            {
+                "name": "Betsy S.",
+                "date": "11/09/2023",
+                "rating": "5",
+                "content": "nice leaves, no sticks. great flavor"
+            },
+            {
+                "name": "Patricia L.",
+                "date": "03/27/2022",
+                "rating": "5",
+                "content": "I love this dried tarragon. I put it in scrambled eggs and under turkey skin with butter while roasting. ,"
+            }
+        ],
+        "category": "culinary herbs"
+    }
+]

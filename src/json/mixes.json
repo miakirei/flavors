@@ -1,0 +1,372 @@
+[
+    {
+        "id": "m01",
+        "name": "Apple Pie Spice",
+        "price": "12.98",
+        "net": "4.8",
+        "image": {
+            "i1": "images/products/m01_01.jpg",
+            "i2": "images/products/m01_02.jpg",
+            "i3": "images/products/m01_03.jpg",
+            "i4": "images/products/m01_04.jpg",
+            "i5": "images/products/m01_05.jpg"
+        },
+        "short": "Apple Pie Spice, also referred to as apple pie spices or apple pie seasoning, is a salt-free, MSG-free blend that is appealingly sweet and aromatic.",
+        "description": "Apple Pie Spice, also referred to as apple pie spices or apple pie seasoning, is a salt-free, MSG-free blend that is appealingly sweet and aromatic. “As American as apple pie” is a common expression, but neither sweet apples nor pie were developed in America. Apples were first cultivated in Asia and traded to Europe. It wasn't until the 14th century when a master chef of King Richard III discusses how to make “Tartys in Applis”—apple tarts. The pilgrims who landed in Jamestown brought their apple seeds with them and favored them over the sour crabapple, the only indigenous apple in America, for larger, sweeter, more productive fruit.  Apple Pie Spice is regularly purchased by seasoning companies; meal mix, subscription, and apple butter, cider, and jam manufacturers; steak houses, brewpubs, and food trucks; independent spice shops; olive oil shops; and breweries. We also offer this in an Organic Apple Pie Spice version.",
+        "howto": "The sweet, spicy combination of Apple Pie Spice is, of course, perfect in apple pie, but don't stop there.  It can transform ordinary pork chops into something special like Caramel Apple Pork Chops.  Add these Apple Cider Sweet Potatoes for the perfect winter side dish.  Apple Pie French Toast Casserole offers a delicious twist to plain French toast.  Or, enjoy Apple Pie Fries or Sopapillas as a warm winter snack. Apple Pie Spice works well with a variety of fruit desserts, so try it with cobbler, crème brûlée, or tarte tatin. Sprinkle over oatmeal. Make a fruit compote seasoned with Apple Pie Spice. Brighten up barbecue sauces with this sweet seasoning. ",
+        "altname": "Apple pie spices or apple pie seasoning",
+        "ingredients": "Cinnamon, allspice, nutmeg, ginger root, and cardamom",
+        "flavor": "Warm, woodsy, and sweet, with notes of citrus and fruit and a little touch of spice",
+        "uses": "Baking, meats, sauces, stews, vegetables, fruits, desserts",
+        "cuisine": "American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Debra R.",
+                "date": "22/09/2024",
+                "rating": "5",
+                "content": "Excellent. Love. I add it to anything and everything."
+            },
+            {
+                "name": "Fred C.",
+                "date": "29/11/2022",
+                "rating": "5",
+                "content": "This spice mix is everything you dream apple pie is. It is warm and fruity, mellow and spiced just right. I made an apple crisp with this mix and it was the best one I have ever made. I see so many uses for this during Fall and Winter baking."
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m02",
+        "name": "Austin Steak Rub",
+        "price": "8.48",
+        "net": "3",
+        "image": {
+            "i1": "images/products/m02_01.jpg",
+            "i2": "images/products/m02_02.jpg",
+            "i3": "images/products/m02_03.jpg",
+            "i4": "images/products/m02_04.jpg",
+            "i5": "images/products/m02_05.jpg"
+        },
+        "short": "Austin Steak Rub, with its complex flavor and texture, is called Texas steak seasoning, best steak rub, or best dry rub for steak.",
+        "description": "Austin Steak Rub, with its complex flavor and texture, is called Texas steak seasoning, best steak rub, or best dry rub for steak. We created Austin Steak Rub to encompass the grandeur of famous Austin steakhouses and highlight the great flavor found in affordable beef cuts. Since everything is bigger in Texas, we wanted to ensure this rub had a big taste that would match the mystique. Our Austin Steak Rub is blended in small batches in our facility to guarantee that we ship the freshest blends possible. Independent spice stores, olive oil shops, and caterers regularly purchase it.",
+        "howto": "This steak rub was designed with beef in mind, so rub it on flank steaks when you make Steak Tacos or choose an affordable cut and use it to season Flat Iron Steaks. Coat a pot roast with Austin Steak Rub, set it, and bask in the comfort of a Slow Cooker Pot Roast. Mix it into a Classic Burger with Cheese, or make your vegetarian friends happy and stir this into some Black Bean Burgers. This is a great rub to blend into meatballs or minced kebabs like Longganisa. It would also be a terrific blend in Aromatic Herbed Chicken or season hearty Savory Stuffed Mushrooms. A top-quality steak rub is coarser than a standard seasoning blend and should be more liberally applied. Use two tablespoons of this rub with every pound of steak for even coverage and flavor distribution. Use only half a tablespoon per pound if you use this rub on fish or poultry. It may overpower the flavor of the fish if too much product is used on it.",
+        "altname": "Texas steak seasoning, best steak rub, or best dry rub for steak",
+        "ingredients": "Black pepper, garlic, onion, shallots, sea salt, oregano, red pepper flakes, and guajillo flakes",
+        "flavor": "Salty, oniony, and garlicky, with herb and chile pepper accents",
+        "uses": "Steak, tacos, burgers, veggie burgers, stuffing",
+        "cuisine": "American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Mary F.",
+                "date": "24/02/2024",
+                "rating": "5",
+                "content": "We love it! The BEST for steaks. Interesting texture."
+            },
+            {
+                "name": "Dana S.",
+                "date": "27/10/2022",
+                "rating": "4",
+                "content": "As always they never disappoint me great blend really brings out the flavors of my steak"
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m03",
+        "name": "Bloody Mary Mix",
+        "price": "11.48",
+        "net": "3.6",
+        "image": {
+            "i1": "images/products/m03_01.jpg",
+            "i2": "images/products/m03_02.jpg",
+            "i3": "images/products/m03_03.jpg",
+            "i4": "images/products/m03_04.jpg",
+            "i5": "images/products/m03_05.jpg"
+        },
+        "short": "Bloody Mary Mix is a savory, spicy seasoning blend that's great both for cocktails and for seasoning food",
+        "description": "Bloody Mary Mix is a savory, spicy seasoning blend that's great both for cocktails and for seasoning food. It is also called bloody Mary seasoning, bloody Mary spice mix, or bloody Mary spices. Use Bloody Mary Mix wherever you want to add a bit of heat and umami dried tomato flavor. The rich flavor of a classic bloody Mary has become a brunch favorite, but it is often dressed with foods like bacon, olives, and shrimp, and so it has developed a reputation as almost a meal in and of itself. ",
+        "howto": "Put Bloody Mary Mix on the rim of your bloody Mary, or stir 1/2 to 1 teaspoon of mix--depending on how spicy you want it--into 4 ounces of tomato juice and 2 ounces of vodka to create a classic bloody Mary cocktail; garnish with a squeeze or two of lemon juice and a few dashes of Worcestershire sauce. Infuse into vodka and muddle with basil to make a Bloody Mary Caprese Cocktail. Or stir it into a hearty Bouillabaisse for a steamy, spicy fish stew. Toss over shrimp and enjoy Spicy Grilled Shrimp, either in your bloody Mary glass or as an appetizer. Blend with pork to make your own Homemade Sausage Links or swap this in to punch up the dressing in an unforgettable Chicken Muffuletta. This blend goes well in cocktails, mocktails, compound butter, dressings, marinades, soups, stews, and tossed with shrimp, chicken, or pork.",
+        "altname": "Bloody Mary seasoning, bloody Mary spice mix, or bloody Mary spices",
+        "ingredients": "Tomato, salt, celery, horseradish, white pepper, organic lemon juice powder (organic lemon juice concentrate, organic lemon oil, and organic rice maltodextrin), and basil",
+        "flavor": "Deep, umami-sweet, pungent and spicy, herbaceous and citrus top notes",
+        "uses": "Cocktails, mocktails, compound butter, dressings, marinades, soups, stews, tapas, tossed with shrimp, chicken, or pork",
+        "cuisine": "American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Lee W.",
+                "date": "30/09/2024",
+                "rating": "5",
+                "content": "Excellent. Love. I add it to anything and everything."
+            },
+            {
+                "name": "Alexis W.",
+                "date": "11/11/2022",
+                "rating": "5",
+                "content": "This spice mix is everything you dream apple pie is. It is warm and fruity, mellow and spiced just right. I made an apple crisp with this mix and it was the best one I have ever made. I see so many uses for this during Fall and Winter baking."
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m04",
+        "name": "Bruschetta Seasoning",
+        "price": "9.98",
+        "net": "2",
+        "image": {
+            "i1": "images/products/m04_01.jpg",
+            "i2": "images/products/m04_02.jpg",
+            "i3": "images/products/m04_03.jpg",
+            "i4": "images/products/m04_04.jpg",
+            "i5": "images/products/m04_05.jpg"
+        },
+        "short": "Our Bruschetta Seasoning is a simple way to deliver the bright, refreshing flavors of summer",
+        "description": "Our Bruschetta Seasoning is a simple way to deliver the bright, refreshing flavors of summer. This blend is also known as bruschetta seasoning, bruschetta spice, bruschetta seasoning mix, or dried bruschetta mix. The word bruschetta is derived from the Italian word bruscare which means to toast or heat in a fire. The concept of bruschetta origins can be traced back to the ancient Romans (27 BC - 1453 AD), but it was originally a simple snack of toasted bread with some olive oil and, possibly, some garlic. Tomatoes did not arrive in Italy until the 16th century and didn't start appearing on tables until the late 18th century, so enjoying tomatoes on bruschetta is a relatively modern change to this traditional food. Bruschetta Seasoning is popular with olive oil shops; seasoning companies; sauce and dip mix manufacturers; food trucks; cafes; and independent spice shops.",
+        "howto": "Bruschetta is typically served as a snack or as the first course in a more formal Italian meal. Add Bruschetta Seasoning to a high quality olive oil and let it marinate for 10-15 minutes before using. Bruschetta Seasoning can be tossed over homemade pizza and baked. It is delicious mixed with spaghetti or lasagna, or for a garden fresh meal, try it in these Zucchini Bruschetta Boats. Roll a log of goat cheese in this blend and drizzle with olive oil and a balsamic reduction for a beautiful appetizer, or mix with tapenade for dip. Fold into cream cheese for a savory spread for bagels and wraps. Our customers have also tried and loved it in chilis, on chicken, in rice, and as a topping on salads.",
+        "altname": "Bruschetta seasoning, bruschetta spice, bruschetta seasoning mix, or dried bruschetta mix",
+        "ingredients": "Tomato flakes, onion, chives, garlic, basil, celery seed, salt, oregano, parsley, red pepper flakes, paprika, black pepper, ginger, thyme, yellow mustard, and cloves",
+        "flavor": "Tomato-y and sweet, mildly bitter, aromatic, and a slightly smoky heat",
+        "uses": "Bruschetta, salads, sauces, cream cheese, pizza, dips",
+        "cuisine": "Italian, Mediterranean, American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Deborah D.",
+                "date": "08/02/2023",
+                "rating": "5",
+                "content": "It is good as a seasoning for noodles too!"
+            },
+            {
+                "name": "Rose M.",
+                "date": "11/11/2022",
+                "rating": "5",
+                "content": "Very easy to order online through the website. The detailed information on the spices & recipe ideas make it so easy! Spices are wrapped & shipped fast with care. Once you open the spices, this amazing smell just takes you back to your grandmothers kitchen. The blends & flavor are amazing. So I had been buying the canned tomatoes with bruschetta seasonings in it.. blah. So I thought I would make my own. Ordered the seasonings along with my garden fresh tomatoes and wow. Just buy the seasonings you won't be disappointed!"
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m05",
+        "name": "Chimichurri Seasoning",
+        "price": "8.48",
+        "net": "2",
+        "image": {
+            "i1": "images/products/m05_01.jpg",
+            "i2": "images/products/m05_02.jpg",
+            "i3": "images/products/m05_03.jpg",
+            "i4": "images/products/m05_04.jpg",
+            "i5": "images/products/m05_05.jpg"
+        },
+        "short": "Chimichurri Seasoning is a salt-free, MSG-free seasoning blend. It is also called chimichurri spice or chimichurri spice blend",
+        "description": "Chimichurri Seasoning is a salt-free, MSG-free seasoning blend. It is also called chimichurri spice or chimichurri spice blend. Chimichurri is an uncooked, herb-based Argentinian condiment mainly used on grilled meat. It is primarily used tableside, shared like a bowl of salsa. The combination of herbs and vinegar cut through fatty flavors of meat, bringing bright balance to an otherwise heavy dish. Chimichurri Seasoning is frequently purchased by independent spice shops; seasoning companies; subscription, jam, salt, dip mix, bitters, and syrup manufacturers; gastro pubs; wine bars; food trucks; vegan kitchens; and olive oil shops.",
+        "howto": "Chimichurri Seasoning is a mild, family-friendly seasoning blend, so use it wherever you want a fresh burst of flavor. Make Chimichurri Sauce and drizzle it over steak, ribs, or grilled sausage. Try Grilled Steak Taco with Chimichurri Sauce, or swap the steak for grilled tofu. Swap into the recipe for Herb Roasted Potatoes or sprinkle over Homemade Hummus spread on toasted flatbreads. Stir into rice and beans or make a dipping sauce for empanadas. Add to the cheese sauce when making Arepas Benedict. Add to sour cream to make a Chimichurri Dip to serve with vegetables or crackers, or blend with olive oil, red wine vinegar, and a bit of mustard to make a fresh, herbaceous salad dressing. Chimichurri Seasoning is perfect for sauces, soups, grilling, vegetables, dressings, dips, marinades, and as a garnish for salads and condiments.",
+        "altname": "Chimichurri spice or chimichurri spice blend",
+        "ingredients": "Paprika, black pepper, parsley, garlic, basil, lemon, oregano, thyme, and aji amarillo",
+        "flavor": "Warming, herbaceous, aromatic, zesty",
+        "uses": "Sauces, soups, grilling, vegetables, dressings, dips, marinades, garnish for salads and condiments",
+        "cuisine": "South American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Chris F.",
+                "date": "26/03/2023",
+                "rating": "5",
+                "content": "Made the sauce by adding olive oil and red wine vinegar. Cooked a half venison backstop over pecan wood pellets. Sliced after letting the meat rest, then drizzled the sauce over the slices. I think I'll try it on a tenderloin next."
+            },
+            {
+                "name": "Vic",
+                "date": "23/11/2014",
+                "rating": "4",
+                "content": "Just different from my expectations -not bad - just different."
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m06",
+        "name": "Dukkah",
+        "price": "9.48",
+        "net": "2.6",
+        "image": {
+            "i1": "images/products/m06_01.jpg",
+            "i2": "images/products/m06_02.jpg",
+            "i3": "images/products/m06_03.jpg",
+            "i4": "images/products/m06_04.jpg",
+            "i5": "images/products/m06_05.jpg"
+        },
+        "short": "Dukkah is an MSG-free seasoning blend that is texturally complex, savory, and can even be eaten on its own as a snack",
+        "description": "Dukkah is an MSG-free seasoning blend that is texturally complex, savory, and can even be eaten on its own as a snack. It is also known as duqq, duqqa, dukkah spice, dukkah seasoning, Egyptian dukkah, or dukkah spice mix. Dukkah is a condiment that has been around for hundreds of years, and was even written about as a peasant food in the 19th century. It's become more present on the food scene in recent years thanks to a rising interest in regionally-inspired eating. Though this condiment originated in Egypt it has moved beyond northern African and has been adopted into Mediterranean and Middle Eastern cooking.",
+        "howto": "Dukkah is typically eaten with Flatbread that's been brushed with olive oil, which is often eaten as a breakfast dish. It adds considerable depth to sweet, tender Roasted Caramelized Acorn Squash with Dukkah. Sprinkle Dukkah over Baba Ghanoush, Homemade Hummus, or avocado toast. Mix in with rice for extra texture and use over salads as a garnish. Finish bitter greens, like broccoli rabe sautéed in garlic, with a handful of Dukkah and some shredded lemon zest. Swap it in to make a flavorful Crusted Baked Chicken. It's got great flavor and a fun, chunky texture, so grab a spoon and snack on it by itself. Dukkah pairs well with bread, rice, chicken, salmon, eggplant, chickpeas, butternut squash, salads, leafy greens, and olive oil.",
+        "altname": "Duqq, duqqa, dukkah spice, dukkah seasoning, Egyptian dukkah, or dukkah spice mix",
+        "ingredients": "Hazelnuts, sesame, coriander, cumin, black pepper, sumac, salt, nigella, Aleppo pepper, mint",
+        "flavor": "Nutty, rich, earthy, warming, tart and minty notes",
+        "uses": "Dips, vegetables, breads, breading for chicken or fish, olive oil",
+        "cuisine": "Egyptian, African, Middle Eastern, Mediterranean",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Carol M.",
+                "date": "17/02/2021",
+                "rating": "5",
+                "content": "We love dukkah and use it for dipping oils or when we cook MIddle Eastern or Turkish food. Can't be beat."
+            },
+            {
+                "name": "Christian L.",
+                "date": "02/08/2021",
+                "rating": "3",
+                "content": "somehow this mixture just doesn't do it for me. the nuts seem incongruous with the spices. I'm probably just not using it correctly."
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m07",
+        "name": "Dill Pickle Salt",
+        "price": "8.48",
+        "net": "3",
+        "image": {
+            "i1": "images/products/m07_01.jpg",
+            "i2": "images/products/m07_02.jpg",
+            "i3": "images/products/m07_03.jpg",
+            "i4": "images/products/m07_04.jpg",
+            "i5": "images/products/m07_05.jpg"
+        },
+        "short": "Dill Pickle Salt is a tart and savory seasoning salt. It is also called dill salt, dilly salt, or dill pickle flavored salt, or dill pickle seasoning.",
+        "description": "Dill Pickle Salt is a tart and savory seasoning salt. It is also called dill salt, dilly salt, or dill pickle flavored salt, or dill pickle seasoning. Seasoned salts were originally created as a “secret ingredient” for steaks in the 1930s, and were so sought after that jars of seasoning salt were stolen off restaurant tables. Since then, a wide variety of seasoned salts have been created to please just about every palate and complement an enormous array of foods. Dill Pickle Salt is popular with seasoning companies; independent spice shops; delis and sandwich restaurants; food trucks; and dip mix and jerky manufacturers.",
+        "howto": "Dill Pickle Salt is delicious on seafood. Sprinkle it over fried shrimp or pan-seared cod or salmon. Stir it into the faux-tuna, meatless Chickpea Salad With Dill Pickle Salt. It makes outstanding Dill Pickle Salt Fries. Swap this in with some brown sugar to make dill-flavored Sticky Chicken Wings. Toss over vegetables for an aromatic Grilled Vegetable Pita. Make a tart and creamy Tzatziki Sauce or add some herbaceous flavor to Pickled Red Onions. This blend is delicious on freshly-steamed corn on the cob, mixed into turkey meatballs, tossed over freshly cooked French fries, or on the rim of a Bloody Mary or a lemon drop.",
+        "altname": "Dill salt, dilly salt, or dill pickle flavored salt, or dill pickle seasoning",
+        "ingredients": "Sea salt, white vinegar powder (maltodextrin, white distilled vinegar, corn starch), dill",
+        "flavor": "Salty, tart, and herbaceous",
+        "uses": "Seafood, salads, chicken, turkey, potatoes, vegetables, fried food",
+        "cuisine": "American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Carol L.",
+                "date": "23/09/2023",
+                "rating": "5",
+                "content": "This dill pickle salt has become my favorite. The salt is very fine and it stick to the food. The taste is fresh and not too strong. I just love it."
+            },
+            {
+                "name": "Michael I.",
+                "date": "23/08/2023",
+                "rating": "1",
+                "content": "really care for it sorry, just not enough flavor."
+            }
+        ],
+        "category": "spice mixes, spice blends, new"
+    },
+    {
+        "id": "m08",
+        "name": "Everything Bagel Seasoning",
+        "price": "9.48",
+        "net": "3.6",
+        "image": {
+            "i1": "images/products/m08_01.jpg",
+            "i2": "images/products/m08_02.jpg",
+            "i3": "images/products/m08_03.jpg",
+            "i4": "images/products/m08_04.jpg",
+            "i5": "images/products/m08_05.jpg"
+        },
+        "short": "Everything Bagel Seasoning is also called everything bagel, everything seasoning, or everything seasoning for bagels",
+        "description": "Everything Bagel Seasoning is also called everything bagel, everything seasoning, or everything seasoning for bagels. This seasoning is popular with our commercial bakeries, seasoning companies, and bagel/ breakfast restaurants.According to David Gussin, he created the everything bagel in the 1980s when he was a teenager, sweeping up after a day hard at work in a bagel shop in Queens, New York City. However, according to Seth Godin, these bagels were already in existence in 1977 since he made them himself. No matter where exactly everything bagel came from, it has swept the nation as a favorite flavor, with everything bagels being made in shops all over the country.The flavor of everything bagels is not only limited to those perfect little dough rings. This flavor has inspired potato chips, fish coatings, donuts, and even everything bagel-flavored ice cream. Of course, the everything bagel is synonymous with New York City's food culture and the people in the city themselves. After all, there's a little bit of everything in the city!",
+        "howto": "Use this blend on anything you want to taste, like an everything bagel. You can use it on eggs, pasta, or meat. Use it on vanilla ice cream for a savory crunch that compliments the vanilla nicely. Use it on homemade dough balls. If you make your biscuits, you could even throw some of this seasoning on those, too. Use less of the seasoning than you think you will need, as our seasoning blends are all extremely flavorful. This is a delicious addition to many different types of food! Experiment to see what you like best.",
+        "altname": "Everything bagel, everything seasoning, or everything seasoning for bagels",
+        "ingredients": "Poppy seeds, garlic, sea salt, sesame, and onion",
+        "flavor": "Savory, garlicky, and oniony, with a nice nutty crunch from the sesame",
+        "uses": "Bagels, biscuits, eggs, ice cream, meat, or pasta",
+        "cuisine": "American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Jim E.",
+                "date": "08/03/2024",
+                "rating": "5",
+                "content": "Very flavourful & worth the price."
+            },
+            {
+                "name": "Pamela B.",
+                "date": "19/02/2022",
+                "rating": "5",
+                "content": "I put this seasoning on everything from eggs, to popcorn. I put it on my salads and add to peanut butter toast. The seasoning is not overly salty like the one I bought at the store. Will definitely order again"
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m09",
+        "name": "Gourmet Peppercorn Mixer",
+        "price": "9.98",
+        "net": "2.5",
+        "image": {
+            "i1": "images/products/m09_01.jpg",
+            "i2": "images/products/m09_02.jpg",
+            "i3": "images/products/m09_03.jpg",
+            "i4": "images/products/m09_04.jpg",
+            "i5": "images/products/m09_05.jpg"
+        },
+        "short": "Our Gourmet Peppercorn Mixer, also known as gourmet peppercorns, brings the distinct flavors of black, white, green and pink peppercorns together in one blend.",
+        "description": "Our Gourmet Peppercorn Mixer, also known as gourmet peppercorns, brings the distinct flavors of black, white, green and pink peppercorns together in one blend. Black, white, and green peppercorns, Piper nigrum, average about 2% volatile oil. They are all berries from the same plant; the way they are harvested and processed accounts for the color and flavor differences. Pink peppercorns, Schinus mole,have nearly 4% volatile oil by weight, so this blend creates a palette of assertive flavors. Gourmet Peppercorn Mixer is regularly purchased by café and gastropub-style restaurants, seasoning companies, olive oil shops, spice shops, brewers, and companies who manufacture salts and jams. 1/4 cup Gourmet Peppercorn Mix = approximately 1 ounce ground peppercorns. Please visit our peppercorn page to browse the variety of peppercorns we have available.",
+        "howto": "To showcase the different characteristics of each peppercorn, we recommend using this as a finishing grind over most dishes. Top red snapper with a squeeze of fresh lemon and freshly-ground Gourmet Peppercorn Mixer. Mix into our Homemade Hummus for a peppery dip. Finish out-of-the-oven chicken wings with our Gourmet Peppercorn Mixer, or top your morning eggs or avocado toast with it. Perk up your greens with this blend when you make Spinach Rice. Add it to citrus vinaigrettes for an extra pop. Grind to a coarse grind and use as a rub for prime rib. Use a finer grind and mix into a crust for cherry pie or into a holiday batch of the classic German spice cookie, Pfeffernüsse.",
+        "altname": "Gourmet peppercorns, gourmet pepper",
+        "ingredients": "Black, white, green, and pink peppercorns",
+        "flavor": "Fruity, sweet, gently vegetal, piney, with a clean burn",
+        "uses": "Beef, chicken, pork, seafood, soup, sauces",
+        "cuisine": "Global",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Katie J.",
+                "date": "31/03/2024",
+                "rating": "5",
+                "content": "Best peppercorn mix we have ever purchased. Livens up everything we use it on - and we use a LOT of pepper for seasoning since cutting back on salt. Which leads me to huge compliments for Spice, Inc's salt free seasonings collection. I have purchased several items and can highly recommend ALL of them."
+            },
+            {
+                "name": "Robert",
+                "date": "30/01/2015",
+                "rating": "4",
+                "content": "Great taste, very fresh. Will buy again. Milder taste, but well balanced flavor."
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    },
+    {
+        "id": "m10",
+        "name": "Pork Chop Brine",
+        "price": "8.98",
+        "net": "3.8",
+        "image": {
+            "i1": "images/products/m10_01.jpg",
+            "i2": "images/products/m10_02.jpg",
+            "i3": "images/products/m10_03.jpg",
+            "i4": "images/products/m10_04.jpg",
+            "i5": "images/products/m10_05.jpg"
+        },
+        "short": "Pork Chop Brine is a salty, aromatic, MSG-free brining blend. It is also called pork brine, brine for pork, pork soak, pork marinade, pork chop seasoning or pulled pork brine, wet pork chop brine, pork chop brining blend, savory pork chop brine, or brining seasoning",
+        "description": "Pork Chop Brine is a salty, aromatic, MSG-free brining blend. It is also called pork brine, brine for pork, pork soak, pork marinade, pork chop seasoning or pulled pork brine, wet pork chop brine, pork chop brining blend, savory pork chop brine, or brining seasoning. Brining is a terrific way to infuse meat with flavor. This brine has salt in it, of course, which helps the meat become more receptive to other flavoring agents. Then we back it up with plenty of herbs, honey, and aromatics so you can easily build a delicious pork chop.",
+        "howto": "Our basic recipe is designed to season 4 pork chops that weigh roughly 6 ounces per chop. Add 4 Tablespoons of Pork Chop Brine to two cups of brining liquid; you can use all water, or a combination of water and vegetable or chicken stock. Bring this to a boil, then remove from heat and allow to completely cool. When cool, place your pork chops in a single layer into a large container, like a pot or a non-reactive mixing bowl or baking dish. Pour the brine over the pork chops and move them to the refrigerator, or in a cooler loaded with ice. The pork chops should sit in the brine for 3-4 hours. When you are ready to cook your chops, remove them from the brine and pat them dry before cooking as you normally would in a pan or in the oven. Visit our recipe for Brined Pork Chops with Poached Fennel to see how we use this ingredient.",
+        "altname": "Pork brine, brine for pork, pork soak, pork marinade, pork chop seasoning or pulled pork brine, wet pork chop brine, pork chop brining blend, savory pork chop brine, or brining seasoning",
+        "ingredients": "Sea salt, applewood smoked salt, honey (cane sugar and honey), smoked pepper, shallots, thyme, white pepper, allspice, rosemary, and cloves",
+        "flavor": "Salty, smoky, woodsy, aromatic",
+        "uses": "Pork chops, tenderloin, ribs, or beef short ribs",
+        "cuisine": "American",
+        "origin": "USA",
+        "reviews": [
+            {
+                "name": "Patrick M.",
+                "date": "01/05/2022",
+                "rating": "5",
+                "content": "Brined a pork loin and it turned out great!"
+            },
+            {
+                "name": "Robert M.",
+                "date": "30/01/2021",
+                "rating": "4",
+                "content": "Milder taste, but well balanced flavor."
+            }
+        ],
+        "category": "spice mixes, spice blends"
+    }
+]
