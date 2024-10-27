@@ -40,7 +40,6 @@ function Layout() {
             setErrorMsg('Geolocation is not supported by this browser.');
         }
     };
-    console.log(navigator.geolocation)
 
     const navigate = useNavigate();
     let [search, setSearch] = useState("");
