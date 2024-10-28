@@ -9,21 +9,21 @@ function SiteMap({ db, cat }) {
             <hr />
             <div className="row">
                 <div className="h4 col-6 col-lg-2">
-                    <div className="mb-4"><Link to="/" className="text-decoration-none text-danger">Home</Link></div>
-                    <div className="mb-4"><Link to="/gallery" className="text-decoration-none text-danger">Gallery</Link></div>
-                    <div className="mb-4"><Link to="/about" className="text-decoration-none text-danger">About Us</Link></div>
-                    <div className="mb-4"><Link to="/contact" className="text-decoration-none text-danger">Contact Us</Link></div>
-                    <div className=""><Link to="/sitemap" className="text-decoration-none text-danger">Site Map</Link></div>
+                    <div className="mb-4"><Link to="/flavors" className="text-decoration-none text-danger">Home</Link></div>
+                    <div className="mb-4"><Link to="flavors/gallery" className="text-decoration-none text-danger">Gallery</Link></div>
+                    <div className="mb-4"><Link to="flavors/about" className="text-decoration-none text-danger">About Us</Link></div>
+                    <div className="mb-4"><Link to="flavors/contact" className="text-decoration-none text-danger">Contact Us</Link></div>
+                    <div className=""><Link to="flavors/sitemap" className="text-decoration-none text-danger">Site Map</Link></div>
                 </div>
                 <div className="col-6 col-lg-2">
-                    <div className="h4 mb-3"><Link to="/categories" className="text-decoration-none text-danger">All Categories</Link></div>
+                    <div className="h4 mb-3"><Link to="flavors/categories" className="text-decoration-none text-danger">All Categories</Link></div>
                     {list.map(item => (
-                        <div className="h6 mb-3"><Link to={`/categories${item.link}`} className="text-decoration-none text-danger">{item.name}</Link></div>
+                        <div className="h6 mb-3"><Link to={`flavors/categories${item.link}`} className="text-decoration-none text-danger">{item.name}</Link></div>
                     ))}
                 </div>
-                <div className="mt-5 mt-lg-0 col-lg-8 row"><div className="h4 mb-3"><Link to="/products" className="text-decoration-none text-danger">All Products</Link></div>
+                <div className="mt-5 mt-lg-0 col-lg-8 row"><div className="h4 mb-3"><Link to="flavors/products" className="text-decoration-none text-danger">All Products</Link></div>
                     {db.map(item => (
-                        <div className="h6 mb-3 col-6 col-md-4 col-lg-6 col-xl-4"><Link to={`/products/${item.id}`} className="text-decoration-none text-danger">{item.name}</Link></div>
+                        <div className="h6 mb-3 col-6 col-md-4 col-lg-6 col-xl-4"><Link to={`flavors/products/${item.id}`} className="text-decoration-none text-danger">{item.name}</Link></div>
                     ))}
                 </div>
             </div>
