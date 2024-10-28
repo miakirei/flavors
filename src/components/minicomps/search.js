@@ -22,7 +22,7 @@ function Search({db}) {
                                         {item.category.match(RegExp("new", "i")) ? "- New " : ""}
                                         {item.sale > 0 ? `- ${item.sale}% Off -` : "-"}
                                     </div>
-                                    <img src={process.env.PUBLIC_URL + item.image.i1} className="card-img-top object-fit-cover" alt={item.name} style={{ width: "100%", height: "250px" }} />
+                                    <img src={process.env.PUBLIC_URL + `/${item.image.i1}`} className="card-img-top object-fit-cover" alt={item.name} style={{ width: "100%", height: "250px" }} />
                                     <div className="card-body">
                                         <h4 className="card-title">{item.name}</h4>
                                         <h5 className="card-subtitle my-2 text-body-secondary">{item.sale > 0 ? <span><span className="text-decoration-line-through">${item.price}</span> {`$${item.price - item.price*item.sale/100}`}</span> : `$${item.price}`} / {item.net} oz</h5>

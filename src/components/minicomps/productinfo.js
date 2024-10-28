@@ -23,36 +23,36 @@ function ProductInfo({ db }) {
                                     <div id="productCarousel" className="carousel slide" data-bs-ride="carousel">
                                         <div className="carousel-indicators">
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="0" className="thumb active">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i1}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 1`} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i1}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 1`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="1" className="thumb">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i2}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 2`} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i2}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 2`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="2" className="thumb">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i3}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 3`} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i3}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 3`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="3" className="thumb">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i4}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 4`} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i4}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 4`} />
                                             </button>
                                             <button data-bs-target="#productCarousel" data-bs-slide-to="4" className="thumb">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i5}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 5`} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i5}`} className="d-block w-100 h-100 rounded" alt={`${item.name} 5`} />
                                             </button>
                                         </div>
                                         <div className="carousel-inner">
                                             <div className="carousel-item active">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i1}`} className="d-block w-100" alt={`${item.name} 1`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i1}`} className="d-block w-100" alt={`${item.name} 1`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i2}`} className="d-block w-100" alt={`${item.name} 2`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i2}`} className="d-block w-100" alt={`${item.name} 2`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i3}`} className="d-block w-100" alt={`${item.name} 3`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i3}`} className="d-block w-100" alt={`${item.name} 3`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i4}`} className="d-block w-100" alt={`${item.name} 4`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i4}`} className="d-block w-100" alt={`${item.name} 4`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                             <div className="carousel-item">
-                                                <img src={process.env.PUBLIC_URL + `../${item.image.i5}`} className="d-block w-100" alt={`${item.name} 5`} style={{ objectFit: 'contain', height: '500px' }} />
+                                                <img src={process.env.PUBLIC_URL + `/${item.image.i5}`} className="d-block w-100" alt={`${item.name} 5`} style={{ objectFit: 'contain', height: '500px' }} />
                                             </div>
                                         </div>
                                         <button className="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
