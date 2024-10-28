@@ -1,3 +1,70 @@
+# eProject Group 2 - FLAVORS
+
+Class: T1.2406.E1
+Centre Name: ACE-THUDUC-1-FPT
+
+## Group Members:
+
+Student1575990 - Phan Huy Nguyên (Group Leader)
+
+Student1580658 - Nguyễn Đình Đức Mạnh
+
+Student1575495 - Trần Quốc Trung
+
+## Overview
+
+FLAVORS are a young company, born of a modern and affordable kitchen. The company is involved in trading and manufacturing a wide range of Organic Products and spices to the consumers all around the global market. The company has wide variety of collection of products. The website is developed to provide detailed information about the spices and other organic products that the client company FLAVORS offers. It includes information and various images of the products themselves as well as their price and allows the user to provide reviews.
+
+## Project Website: https://miakirei.github.io/flavors
+
+## Specifications
+
+- Source Code: src/
+- Data: src/data
+- Documentations: Documents/
+
+## Documentations
+
+- Status Report: Documents/eProject_Status_Report(V1).xls
+- Project Report: Documents/FLAVORS.pdf
+
+## For Developers
+
+To run this website locally, follow these steps:
+
+- Clone the repository:
+
+  ```
+  git clone https://github.com/miakirei/flavors.git
+  ```
+
+- Navigate to the project directory:
+
+  ```
+  cd flavors
+  ```
+
+- Install dependencies:
+
+  ```
+  npm install --save-dev
+  ```
+
+- Start the development server:
+
+  ```
+  npm start
+  ```
+
+- Open the app in your browser by visiting:
+
+  > http://localhost:3000
+
+## Acknowledgements
+
+- Special thanks to all contributors, instructor and group members who made this project possible.
+- Special gratitude for FPT Aptech Academy and eProject who given us the chance to involve in a meaningful and realistic project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
