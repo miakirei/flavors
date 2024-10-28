@@ -46,7 +46,7 @@ function Layout() {
     const handleSearch = (ev) => {
         ev.preventDefault();
         if (search) {
-            navigate("flavors/search", { state: { key: search }, replace: true });
+            navigate("/search", { state: { key: search }, replace: true });
         }
     };
 
